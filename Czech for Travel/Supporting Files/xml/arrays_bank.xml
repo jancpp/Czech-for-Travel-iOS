@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_at_the_bank_en">
+        <item>At the bank</item>
+        <item>Where is ATM?</item>
+        <item>I\'d like to withdraw money.</item>
+        <item>I need to withdraw a large amout.</item>
+        <item>I\'d like to exchange traveler\'s checks.</item>
+        <item>Commission</item>
+        <item>Credit card</item>
+        <item>Debit card</item>
+        <item>Do you know where a money exchange office is?</item>
+        <item>Where should I sign it?</item>
+        <item>Password</item>
+        <item>Client number</item>
+        <item>Is it secure?</item>
+        <item>Internet banking</item>
+        <item>Money</item>
+        <item>Money transfer</item>
+        <item>How many crowns I get for 1 US dollar?</item>
+        <item>What is your PIN number?</item>
+        <item>Do you have an account with us?</item>
+        <item>Identity card, please.</item>
+        <item>No, we don\'t take personal checks.</item>
+        <item>Please, fill out this form.</item>
+        <item>How much?</item>
+        <item>How many?</item>
+        <item>Can I talk to a manager?</item>
+        
+    </string-array>
+    <string-array name="array_at_the_bank_cs_big">
+        <item>V bance</item>
+        <item>Kde je bankomat?</item>
+        <item>Chci vybrat peníze.</item>
+        <item>Potřebuji vybrat velkou sumu.</item>
+        <item>Chci vyměnit cestovní šeky.</item>
+        <item>Provize</item>
+        <item>Úvěrová karta</item>
+        <item>Platební karta</item>
+        <item>Víte kde je směnárna?</item>
+        <item>Kde to mám podepsat?</item>
+        <item>Heslo</item>
+        <item>Klientské číslo</item>
+        <item>Je to bezpečné?</item>
+        <item>Internetové bankovnictví</item>
+        <item>Peníze</item>
+        <item>Převod peněz</item>
+        <item>Kolik korun dostanu za jeden americký dolar?</item>
+        <item>Jaký je váš PIN?</item>
+        <item>Máte u nás konto?</item>
+        <item>Občanský průkaz, prosím.</item>
+        <item>Ne, my nebereme osobní šeky.</item>
+        <item>Prosím, vyplňte tento formulář.</item>
+        <item>Kolik?</item>
+        <item>Kolik?</item>
+        <item>Mohu mluvit s manažerem?</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_at_the_bank_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_at_the_bank_cs2">
+        <item>plular: V bankách</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>plular: Provize (same as singular)</item>
+        <item>plular: Úvěrové karty</item>
+        <item>plular: Platební karty</item>
+        <item></item>
+        <item></item>
+        <item>plular: Hesla</item>
+        <item>plular: Klientská čísla</item>
+        <item></item>
+        <item></item>
+        <item>plular: Peníze (same as singular)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>same as: How many?</item>
+        <item>same as: How much?</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+         <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_at_the_bank_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>also: Kreditka or Karta</item>
+        <item>familiar: Karta</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

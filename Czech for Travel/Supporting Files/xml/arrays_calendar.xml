@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_calendar_en">
+        <item>Calendar</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Season</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Winter</item>
+        <item>Easter</item>
+        <item>Christmas</item>
+        <item>Christmas Eve</item>
+        <item>New year\'s Eve</item>
+        <item>Happy new year!</item>
+        <item>Independence day</item>
+        <item>Thanksgiving</item>
+        <item>Labor day</item>
+        <item>Memorial day</item>
+    </string-array>
+    <string-array name="array_calendar_cs_big">
+        <item>Kalendář</item>
+        <item>Den</item>
+        <item>Týden</item>
+        <item>Měsíc</item>
+        <item>Roční období</item>
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
+        <item>Neděle</item>
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+        <item>Jaro</item>
+        <item>Léto</item>
+        <item>Podzim</item>
+        <item>Zima</item>
+        <item>Velikonoce</item>
+        <item>Vánoce</item>
+        <item>Štedný den</item>
+        <item>Silvestr</item>
+        <item>Šťastný nový rok</item>
+        <item>Den nezávislosti</item>
+        <item>Den díkuvzdání</item>
+        <item>Svátek práce</item>
+        <item>Památka zesnulých</item>
+    </string-array>
+    <string-array name="array_calendar_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_calendar_cs2">
+        <item>plular: Kalendáře</item>
+        <item>plular: Dny</item>
+        <item>plular: Týdny</item>
+        <item>plular: Měsíce</item>
+        <item>plular: Roční období (same as singular)</item>
+        <item>plular: Pondělí (same as singular)</item>
+        <item>plular: Úterý (same as singular)</item>
+        <item>plular: Středy</item>
+        <item>plular: Čtvrtky</item>
+        <item>plular: Pátky</item>
+        <item>plular: Soboty</item>
+        <item>plular: Neděle (same as singular)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>plular: Jara</item>
+        <item>plular: Léta</item>
+        <item>plular: Podzimy</item>
+        <item>plular: Zimy</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_calendar_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

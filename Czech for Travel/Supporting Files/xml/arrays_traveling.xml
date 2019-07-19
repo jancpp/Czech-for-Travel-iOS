@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_travel_en">
+        <item>Traveling</item>
+        <item>Where is a train station?</item>
+        <item>Where can I rent a car?</item>
+        <item>Can I pay with a credit card?</item>
+        <item>Do you have this guide book in English?</item>
+        <item>Do you have tour guide in English?</item>
+        <item>Boarding pass, please!</item>
+        <item>Passport, please!</item>
+        <item>I need to buy tickets for subway?</item>
+        <item>Please, finish exiting and boarding, the doors are closing.</item>
+        <item>Next stop: Main train station.</item>
+        <item>How do I get to Charles street?</item>
+        <item>Square</item>
+        <item>Theatre</item>
+        <item>Church</item>
+        <item>Spa</item>
+        <item>How much is a bus pass?</item>
+        <item>How much is a museum ticket?</item>
+        <item>Where can we spent the night?</item>
+        <item>How far is the closest town?</item>
+        <item>Which way?</item>
+        <item>I\'d like to visit Carlsbad.</item>
+        <item>I\'d like to go for a trip to Marienbad.</item>
+        <item>How far is Karlštejn castle?</item>
+        <item>Can you take us for trip to Konopiště castle?</item>
+        <item>I want to see ossuary in Sedlec by Kutná Hora.</item>
+        <item>Stop here.</item>
+        <item>To the right</item>
+        <item>To the left</item>
+        <item>Straight</item>
+        <item>Turn</item>
+        <item>Here</item>
+        <item>There</item>
+        <item>North</item>
+        <item>South</item>
+        <item>East</item>
+        <item>West</item>
+        <item>Walking entrance</item>
+        <item>Driving entrance</item>
+        <item>Walking exit</item>
+        <item>Driving exit</item>
+    </string-array>
+    <string-array name="array_travel_cs_big">
+        <item>Cestování</item>
+        <item>Kde je vlakové nádraží?</item>
+        <item>Kde si mohu půjčit auto?</item>
+        <item>Mohu platit kartou?</item>
+        <item>Máte tuto brožůru v Angličtině?</item>
+        <item>Máte průvodce v Angličtině?</item>
+        <item>Letenku, prosím!</item>
+        <item>Cestovní pas, prosím!</item>
+        <item>Potřebuji koupit jízdenky na metro.</item>
+        <item>Ukončete, prosím, výstup a nástup, dveře se zavírají.</item>
+        <item>Příští stanice: Hlavní nádraží</item>
+        <item>Jak se dostanu na Karlovu ulici?</item>
+        <item>Náměstí</item>
+        <item>Divadlo</item>
+        <item>Kostel</item>
+        <item>Lázně</item>
+        <item>Kolik stojí jízdenka na autobus?</item>
+        <item>Kolik stojí vstupenka do muzea?</item>
+        <item>Kde můžeme přenocovat?</item>
+        <item>Jak daleko je nejbližší město?</item>
+        <item>Kterým směrem?</item>
+        <item>Rád bych navštívil Karlovy Vary.</item>
+        <item>Rád bych jel na výlet do Mariánských Lázní.</item>
+        <item>Jak daleko je hrad Karlštejn?</item>
+        <item>Můžete nás vzít na výlet na hrad Konopiště?</item>
+        <item>Chci vidět kostnici v Sedlci u Kutné Hory.</item>
+        <item>Zastavte tady.</item>
+        <item>Vpravo</item>
+        <item>Vlevo</item>
+        <item>Rovně</item>
+        <item>Zatočte</item>
+        <item>Tady</item>
+        <item>Tam</item>
+        <item>Sever</item>
+        <item>Jih</item>
+        <item>Východ</item>
+        <item>Západ</item>
+        <item>Vchod</item>
+        <item>Vjezd</item>
+        <item>Východ</item>
+        <item>Výjezd</item>
+    </string-array>
+    <string-array name="array_travel_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_travel_cs2">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>plular: Letenky, prosím</item>
+        <item>or: Pas, prosím</item>
+        <item></item>
+        <item></item>
+        <item>abbreviated: Praha hl.n</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>same as: East</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_travel_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>plular: Cestovní pasy, prosím</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

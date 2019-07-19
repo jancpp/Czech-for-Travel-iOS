@@ -1,0 +1,4640 @@
+{
+    "categories": [
+        {
+            "index":  0 ,
+            "name" : " In an emergency ",
+            "image" : "ic_in an emergency",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "vpripadenouze",
+                    "english": "In an emergency",
+                    "czech": "V případě nouze",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "kdejenemocnice",
+                    "english": "Where is a hospital?",
+                    "czech": "Kde je nemocnice?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "nemuzunajitmujpas",
+                    "english": "I cannot find my passport.",
+                    "czech": "Nemůžu najít můj pas.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "maminfarkt",
+                    "english": "I'm having a heart attack.",
+                    "czech": "Mám infarkt.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "potrebujiinhalator",
+                    "english": "I need an inhaler.",
+                    "czech": "Potřebuji inhalátor.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "zavolejtesanitku",
+                    "english": "Call an ambulance!",
+                    "czech": "Zavolejte sanitku!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "volejtepolicii",
+                    "english": "Call the police!",
+                    "czech": "Volejte policii!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "nekdomiukradlpenezenku",
+                    "english": "Somebody stole my wallet!",
+                    "czech": "Někdo mi ukradl peněženku!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "zlodej",
+                    "english": "Thief!",
+                    "czech": "Zloděj!",
+                    "czech_detail": "\nplular: Zloději!"
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "pomoc",
+                    "english": "Help!",
+                    "czech": "Pomóc!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "hori",
+                    "english": "Fire!",
+                    "czech": "Hoří!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "nabouraljsemse",
+                    "english": "I've had a car accident.",
+                    "czech": "Naboural jsem se.",
+                    "czech_detail": "(masculine)\nNabourala jsem se. (feminine)"
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "pozor",
+                    "english": "Watch out!",
+                    "czech": "Pozor!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "povoden",
+                    "english": "Flood",
+                    "czech": "Povodeň",
+                    "czech_detail": "\nplular: Povodně"
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "policie",
+                    "english": "Police",
+                    "czech": "Policie",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "policista",
+                    "english": "Police officer",
+                    "czech": "Policista",
+                    "czech_detail": "\nalso: Strážník or Policejní důstojník"
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "policejnistanice",
+                    "english": "Police station",
+                    "czech": "Policejní stanice",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "ztratiljsemse",
+                    "english": "I am lost.",
+                    "czech": "Ztratil jsem se.",
+                    "czech_detail": "(masculine)\nZtratila jsem se. (feminine)"
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "ztratiljsempenezenku",
+                    "english": "I lost my wallet.",
+                    "czech": "Ztratil jsem peněženku.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "mamzlomenouruku",
+                    "english": "I have a broken arm.",
+                    "czech": "Mám zlomenou ruku.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "budurodit",
+                    "english": "I am in labor.",
+                    "czech": "Budu rodit",
+                    "czech_detail": "\nmeans: I'll be giving a birth."
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "jsemdiabetik",
+                    "english": "I am a diabetic.",
+                    "czech": "Jsem diabetik.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "potrebujiinzulin",
+                    "english": "I need insulin.",
+                    "czech": "Potřebuji  inzulín.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "janechciinjekci",
+                    "english": "I don't want a shot!",
+                    "czech": "Já nechci injekci!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "conejdriv",
+                    "english": "As soon as possible.",
+                    "czech": "Co nejdřív.",
+                    "czech_detail": "\nalso: Okamžitě"
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "zdravotnipojisteni",
+                    "english": "Medical insurance",
+                    "czech": "Zdravotní pojištění",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "potrebujidoktorakterymluvianglicky",
+                    "english": "I need a doctor that speaks English.",
+                    "czech": "Potřebuji doktora, který mluví Anglicky.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "mamalergickoureakci",
+                    "english": "I have an alergic reaction.",
+                    "czech": "Mám alergickou reakci.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  28 ,
+                    "audio" : "matevysokytlak",
+                    "english": "Do you have high blood pressure?",
+                    "czech": "Máte vysoký tlak?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  29 ,
+                    "audio" : "nizkytlak",
+                    "english": "Low blood pressure",
+                    "czech": "Nízký tlak",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  30 ,
+                    "audio" : "berulekynaastma",
+                    "english": "I am on medication for asthma.",
+                    "czech": "Beru léky na astma.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  31 ,
+                    "audio" : "bolimezub",
+                    "english": "I have a toothache.",
+                    "czech": "Bolí mě zub.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  32 ,
+                    "audio" : "mammigrenu",
+                    "english": "I have a migraine.",
+                    "czech": "Mám migrénu.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  33 ,
+                    "audio" : "zavislost",
+                    "english": "Addiction",
+                    "czech": "Závislost",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  34 ,
+                    "audio" : "kardiostimulator",
+                    "english": "Pacemaker",
+                    "czech": "Kardiostimulátor",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  35 ,
+                    "audio" : "potrat",
+                    "english": "Miscarriage",
+                    "czech": "Potrat",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  36 ,
+                    "audio" : "bolitotady",
+                    "english": "It hurts here.",
+                    "czech": "Bolí to tady.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  37 ,
+                    "audio" : "berutyhleleky",
+                    "english": "I take this medication.",
+                    "czech": "Beru tyhle léky.",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  1 ,
+            "name" : " Phrases ",
+            "image" : "ic_phrases",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "fraze",
+                    "english": "Phrases",
+                    "czech": "Fráze",
+                    "czech_detail": "\nsingular: Fráze (same as plular)"
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "dekuji",
+                    "english": "Thank you",
+                    "czech": "Děkuji",
+                    "czech_detail": "\nplular: Děkujeme"
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "prosim",
+                    "english": "Please",
+                    "czech": "Prosím",
+                    "czech_detail": "\nsame as: You welcome, or Here you are"
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "prosim",
+                    "english": "You're welcome",
+                    "czech": "Prosím",
+                    "czech_detail": "\nsame as: Please, or Here you are"
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "prosim",
+                    "english": "Here you are",
+                    "czech": "Prosím",
+                    "czech_detail": "\nsame as: You welcome, or Please"
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "jmenujisejohn",
+                    "english": "My name is John.",
+                    "czech": "Jmenuji se John.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "jsemanglican",
+                    "english": "I am an English man.",
+                    "czech": "Jsem Angličan.",
+                    "czech_detail": "(masculine)\nJsem Angličanka. (feminine)"
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "jsemzespojenychstatu",
+                    "english": "I am from the United States.",
+                    "czech": "Jsem ze Spojených států.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "tesime",
+                    "english": "Nice to meet you.",
+                    "czech": "Těší mě.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "tesilome",
+                    "english": "It was nice to meet you.",
+                    "czech": "Těšilo mě.",
+                    "czech_detail": "- used while leaving"
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "jaksevamtadylibi",
+                    "english": "How do you like it here?",
+                    "czech": "Jak se vám tady líbí?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "jetadykrasne",
+                    "english": "It's beautiful here.",
+                    "czech": "Je tady krásně.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "poradtadyprsi",
+                    "english": "It's always raining here.",
+                    "czech": "Pořád tady prší.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "mluviteanglicky",
+                    "english": "Do you speak English?",
+                    "czech": "Mluvíte anglicky?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "muzetetozopakovat",
+                    "english": "Would you repeat that?",
+                    "czech": "Můžete to zopakovat?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "mamsedobre",
+                    "english": "I am well.",
+                    "czech": "Mám se dobrě.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "dobre",
+                    "english": "Okay.",
+                    "czech": "Dobře.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "jetodobre",
+                    "english": "Is it correct?",
+                    "czech": "Je to dobře?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "onjecech",
+                    "english": "He is Czech (man)",
+                    "czech": "On je Čech",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "onajeceska",
+                    "english": "She is Czech (woman)",
+                    "czech": "Ona je Češka",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "cestina",
+                    "english": "Czech (language)",
+                    "czech": "Čeština",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "mluvimcesky",
+                    "english": "I speak Czech (adverb).",
+                    "czech": "Mluvím česky",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "hlavnimestoceskerepublikyjepraha",
+                    "english": "The capital of Czech Republic is Prague.",
+                    "czech": "Hlavní město České Republiky je Praha.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "jeceskarepublikasoucastievropskeunie",
+                    "english": "Is Czech Republic part of European Union?",
+                    "czech": "Je Česká Republika součástí Evropské Unie?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "nasvyrobceautjeskoda",
+                    "english": "Our automobile manufacturer is Škoda.",
+                    "czech": "Náš výrobce aut je Škoda.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "koliklidibydlivpraze",
+                    "english": "How many people live in Prague?",
+                    "czech": "Kolik lidí bydlí v Praze?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "milosformansenarodiltady",
+                    "english": "Miloš Forman was born here.",
+                    "czech": "Miloš Forman se narodil tady.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "sametovarevoluce",
+                    "english": "Velvet revolution",
+                    "czech": "Sametová revoluce",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  28 ,
+                    "audio" : "mamradknihymilanakundery",
+                    "english": "I like Milan Kundera's books.",
+                    "czech": "Mám rád knihy Milana Kundery.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  29 ,
+                    "audio" : "ceskoslovenskoserozpadloprvniholedna1993",
+                    "english": "Czechoslovakia dissoluted on January 1st 1993.",
+                    "czech": "Československo se rozpadlo prvního ledna 1993.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  30 ,
+                    "audio" : "hlavnimestoslovenskajebratislava",
+                    "english": "Slovakian capital city in Bratislava.",
+                    "czech": "Hlavní město Slovenska je Bratislava.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  31 ,
+                    "audio" : "ano",
+                    "english": "Yes",
+                    "czech": "Ano",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  32 ,
+                    "audio" : "ne",
+                    "english": "No",
+                    "czech": "Ne",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  33 ,
+                    "audio" : "nevim",
+                    "english": "I don't know.",
+                    "czech": "Nevím.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  34 ,
+                    "audio" : "proc",
+                    "english": "Why?",
+                    "czech": "Proč?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  35 ,
+                    "audio" : "kdy",
+                    "english": "When?",
+                    "czech": "Kdy?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  36 ,
+                    "audio" : "jak",
+                    "english": "How?",
+                    "czech": "Jak?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  37 ,
+                    "audio" : "kde",
+                    "english": "Where?",
+                    "czech": "Kde?",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  2 ,
+            "name" : " Greetings ",
+            "image" : "ic_greetings",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "pozdravy",
+                    "english": "Greetings",
+                    "czech": "Pozdravy",
+                    "czech_detail": "\nsingular: Pozdrav"
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "ahoj",
+                    "english": "Hello",
+                    "czech": "Ahoj",
+                    "czech_detail": "\nalso: Čau, Nazdar"
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "dobryden",
+                    "english": "Good day",
+                    "czech": "Dobrý den",
+                    "czech_detail": "\n- used more often than Good morning or Good afternoon\n- used during daylight"
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "dobrerano",
+                    "english": "Good morning",
+                    "czech": "Dobré ráno",
+                    "czech_detail": "\n- used only when you wake up"
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "dobreodpoledne",
+                    "english": "Good afternoon",
+                    "czech": "Dobré odpoledne",
+                    "czech_detail": "\n- used rarely (see Good day)"
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "dobryvecer",
+                    "english": "Good evening",
+                    "czech": "Dobrý večer",
+                    "czech_detail": "\n- never used during daylight"
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "dobrounoc",
+                    "english": "Good night",
+                    "czech": "Dobrou noc",
+                    "czech_detail": "\n- used only when you go to sleep"
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "nashledanou",
+                    "english": "See you later",
+                    "czech": "Na shledanou",
+                    "czech_detail": "\nsame as: Good bye"
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "nashledanou",
+                    "english": "Good bye",
+                    "czech": "Na shledanou",
+                    "czech_detail": "\nsame as: See you later"
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "nashle",
+                    "english": "See ya",
+                    "czech": "Nashle",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "cau",
+                    "english": "Bye",
+                    "czech": "Čau",
+                    "czech_detail": "\nalso: Ahoj"
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "mejse",
+                    "english": "Take care",
+                    "czech": "Měj se",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "jaksemas",
+                    "english": "How are you?",
+                    "czech": "Jak se máš?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "jaktojde",
+                    "english": "How is it going?",
+                    "czech": "Jak to jde?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "vitejtevceskerepublice",
+                    "english": "Welcome to Czech Republic!",
+                    "czech": "Vítejte v České Republice!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "nazdravi",
+                    "english": "Cheers!",
+                    "czech": "Na zdraví!",
+                    "czech_detail": "\nmeans: To our health!"
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "radjsemvasvidel",
+                    "english": "It was nice to see you.",
+                    "czech": "Rád jsem vás viděl.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "stastnoucestu",
+                    "english": "Have a nice trip.",
+                    "czech": "Šťastnou cestu.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "veselevelikonoce",
+                    "english": "Happy Easter!",
+                    "czech": "Veselé Velikonoce!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "veselevanoce",
+                    "english": "Marry Christmas!",
+                    "czech": "Veselé Vánoce",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "vsechnonejlepsiknarozeninam",
+                    "english": "Happy birthday!",
+                    "czech": "Všechno nejlepší k narozeninám!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "vsechnonejlepsiksvatku",
+                    "english": "Happy nameday!",
+                    "czech": "Všechno nejlepší k svátku!",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  3 ,
+            "name" : " Traveling ",
+            "image" : "ic_traveling",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "cestovani",
+                    "english": "Traveling",
+                    "czech": "Cestování",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "kdejevlakovenadrazi",
+                    "english": "Where is a train station?",
+                    "czech": "Kde je vlakové nádraží?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "kdesimohupujcitauto",
+                    "english": "Where can I rent a car?",
+                    "czech": "Kde si mohu půjčit auto?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "mohuplatitkartou",
+                    "english": "Can I pay with a credit card?",
+                    "czech": "Mohu platit kartou?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "matetutobrozuruvanglictine",
+                    "english": "Do you have this guide book in English?",
+                    "czech": "Máte tuto brožůru v Angličtině?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "matepruvodcevanglictine",
+                    "english": "Do you have tour guide in English?",
+                    "czech": "Máte průvodce v Angličtině?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "letenkuprosim",
+                    "english": "Boarding pass, please!",
+                    "czech": "Letenku, prosím!",
+                    "czech_detail": "\nplular: Letenky, prosím"
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "cestovnipasprosim",
+                    "english": "Passport, please!",
+                    "czech": "Cestovní pas, prosím!",
+                    "czech_detail": "\nor: Pas, prosím\nplular: Cestovní pasy, prosím"
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "potrebujikoupitjizdenkynametro",
+                    "english": "I need to buy tickets for subway?",
+                    "czech": "Potřebuji koupit jízdenky na metro.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "ukonceteprosimvystupanastupdveresezaviraji",
+                    "english": "Please, finish exiting and boarding, the doors are closing.",
+                    "czech": "Ukončete, prosím, výstup a nástup, dveře se zavírají.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "prististanicehlavninadrazi",
+                    "english": "Next stop: Main train station.",
+                    "czech": "Příští stanice: Hlavní nádraží",
+                    "czech_detail": "\nabbreviated: Praha hl.n"
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "jaksedostanunakarlovuulici",
+                    "english": "How do I get to Charles street?",
+                    "czech": "Jak se dostanu na Karlovu ulici?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "namesti",
+                    "english": "Square",
+                    "czech": "Náměstí",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "divadlo",
+                    "english": "Theatre",
+                    "czech": "Divadlo",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "kostel",
+                    "english": "Church",
+                    "czech": "Kostel",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "lazne",
+                    "english": "Spa",
+                    "czech": "Lázně",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "kolikstojijizdenkanaautobus",
+                    "english": "How much is a bus pass?",
+                    "czech": "Kolik stojí jízdenka na autobus?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "kolikstojivstupenkadomuzea",
+                    "english": "How much is a museum ticket?",
+                    "czech": "Kolik stojí vstupenka do muzea?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "kdemuzemeprenocovat",
+                    "english": "Where can we spent the night?",
+                    "czech": "Kde můžeme přenocovat?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "jakdalekojenejblizsimesto",
+                    "english": "How far is the closest town?",
+                    "czech": "Jak daleko je nejbližší město?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "kterymsmerem",
+                    "english": "Which way?",
+                    "czech": "Kterým směrem?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "radbychnavstivilkarlovyvary",
+                    "english": "I'd like to visit Carlsbad.",
+                    "czech": "Rád bych navštívil Karlovy Vary.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "radbychjelnavyletdomarianskychlazni",
+                    "english": "I'd like to go for a trip to Marienbad.",
+                    "czech": "Rád bych jel na výlet do Mariánských Lázní.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "jakdalekojehradkarlstejn",
+                    "english": "How far is Karlštejn castle?",
+                    "czech": "Jak daleko je hrad Karlštejn?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "muzetenasvzitnavyletnahradkonopiste",
+                    "english": "Can you take us for trip to Konopiště castle?",
+                    "czech": "Můžete nás vzít na výlet na hrad Konopiště?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "chcividetkostnicivsedlciukutnehory",
+                    "english": "I want to see ossuary in Sedlec by Kutná Hora.",
+                    "czech": "Chci vidět kostnici v Sedlci u Kutné Hory.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "zastavtetady",
+                    "english": "Stop here.",
+                    "czech": "Zastavte tady.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "vpravo",
+                    "english": "To the right",
+                    "czech": "Vpravo",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  28 ,
+                    "audio" : "vlevo",
+                    "english": "To the left",
+                    "czech": "Vlevo",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  29 ,
+                    "audio" : "rovne",
+                    "english": "Straight",
+                    "czech": "Rovně",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  30 ,
+                    "audio" : "zatocte",
+                    "english": "Turn",
+                    "czech": "Zatočte",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  31 ,
+                    "audio" : "tady",
+                    "english": "Here",
+                    "czech": "Tady",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  32 ,
+                    "audio" : "tam",
+                    "english": "There",
+                    "czech": "Tam",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  33 ,
+                    "audio" : "sever",
+                    "english": "North",
+                    "czech": "Sever",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  34 ,
+                    "audio" : "jih",
+                    "english": "South",
+                    "czech": "Jih",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  35 ,
+                    "audio" : "vychod",
+                    "english": "East",
+                    "czech": "Východ",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  36 ,
+                    "audio" : "zapad",
+                    "english": "West",
+                    "czech": "Západ",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  37 ,
+                    "audio" : "vchod",
+                    "english": "Walking entrance",
+                    "czech": "Vchod",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  38 ,
+                    "audio" : "vjezd",
+                    "english": "Driving entrance",
+                    "czech": "Vjezd",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  39 ,
+                    "audio" : "vychod",
+                    "english": "Walking exit",
+                    "czech": "Východ",
+                    "czech_detail": "\nsame as: East"
+                }
+                ,
+                {
+                    "position":  40 ,
+                    "audio" : "vyjezd",
+                    "english": "Driving exit",
+                    "czech": "Výjezd",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  4 ,
+            "name" : " At hotel ",
+            "image" : "ic_at hotel",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "vhotelu",
+                    "english": "At hotel",
+                    "czech": "V hotelu",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "recepce",
+                    "english": "Front desk",
+                    "czech": "Recepce",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "vkolikhodinseoteviraposilovna",
+                    "english": "What time does the gym open?",
+                    "czech": "V kolik hodin se otevírá posilovna?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "vkolikhodinsezavirabazen",
+                    "english": "What time does the pool close?",
+                    "czech": "V kolik hodin se zavírá bazén?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "kdejerestaurace",
+                    "english": "Where is a restaurant?",
+                    "czech": "Kde je restaurace?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "podavatejestejidlo",
+                    "english": "Are you still serving food?",
+                    "czech": "Podáváte ještě jídlo?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "pokoj",
+                    "english": "Room",
+                    "czech": "Pokoj",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "apartma",
+                    "english": "Suite",
+                    "czech": "Apartmá",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "vyhlidkanareku",
+                    "english": "View at the river",
+                    "czech": "Vyhlídka na řeku",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "dveoddelenepostele",
+                    "english": "Two twin beds",
+                    "czech": "Dvě oddělené postele",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "jednodvojluzko",
+                    "english": "One king size bed",
+                    "czech": "Jedno dvojlůžko",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "nekurackypokoj",
+                    "english": "Non-smoking room",
+                    "czech": "Nekuřácký pokoj",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "pokojsklimatizaci",
+                    "english": "Room with air conditioning",
+                    "czech": "Pokoj s klimatizací",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "wifispripojenimzdarma",
+                    "english": "Free Wi-Fi",
+                    "czech": "Wi-Fi s připojením zdarma",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "potrebujizupan",
+                    "english": "I need a bathrobe.",
+                    "czech": "Potřebuji župan.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "rucniky",
+                    "english": "Towels",
+                    "czech": "Ručníky",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "detskapostylka",
+                    "english": "Crib",
+                    "czech": "Dětská postýlka",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "zubnipasta",
+                    "english": "Tooth paste",
+                    "czech": "Zubní pasta",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "kartaceknazuby",
+                    "english": "Tooth brush",
+                    "czech": "Kartáček na zuby",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "holicistrojek",
+                    "english": "Razor",
+                    "czech": "Holící strojek",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "penanaholeni",
+                    "english": "Shaving foam",
+                    "czech": "Pěna na holení",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "popelnik",
+                    "english": "Ashtray",
+                    "czech": "Popelník",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "kdemohukourit",
+                    "english": "Where can I smoke?",
+                    "czech": "Kde mohu kouřit?",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  5 ,
+            "name" : " At the bank ",
+            "image" : "ic_at the bank",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "vbance",
+                    "english": "At the bank",
+                    "czech": "V bance",
+                    "czech_detail": "\nplular: V bankách"
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "kdejebankomat",
+                    "english": "Where is ATM?",
+                    "czech": "Kde je bankomat?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "chcivybratpenize",
+                    "english": "I'd like to withdraw money.",
+                    "czech": "Chci vybrat peníze.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "potrebujivybratvelkousumu",
+                    "english": "I need to withdraw a large amout.",
+                    "czech": "Potřebuji vybrat velkou sumu.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "chcivymenitcestovniseky",
+                    "english": "I'd like to exchange traveler's checks.",
+                    "czech": "Chci vyměnit cestovní šeky.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "provize",
+                    "english": "Commission",
+                    "czech": "Provize",
+                    "czech_detail": "\nplular: Provize (same as singular)"
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "uverovakarta",
+                    "english": "Credit card",
+                    "czech": "Úvěrová karta",
+                    "czech_detail": "\nplular: Úvěrové karty\nalso: Kreditka or Karta"
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "platebnikarta",
+                    "english": "Debit card",
+                    "czech": "Platební karta",
+                    "czech_detail": "\nplular: Platební karty\nfamiliar: Karta"
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "vitekdejesmenarna",
+                    "english": "Do you know where a money exchange office is?",
+                    "czech": "Víte kde je směnárna?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "kdetomampodepsat",
+                    "english": "Where should I sign it?",
+                    "czech": "Kde to mám podepsat?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "heslo",
+                    "english": "Password",
+                    "czech": "Heslo",
+                    "czech_detail": "\nplular: Hesla"
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "klientskecislo",
+                    "english": "Client number",
+                    "czech": "Klientské číslo",
+                    "czech_detail": "\nplular: Klientská čísla"
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "jetobezpecne",
+                    "english": "Is it secure?",
+                    "czech": "Je to bezpečné?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "internetovebankovnictvi",
+                    "english": "Internet banking",
+                    "czech": "Internetové bankovnictví",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "penize",
+                    "english": "Money",
+                    "czech": "Peníze",
+                    "czech_detail": "\nplular: Peníze (same as singular)"
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "prevodpenez",
+                    "english": "Money transfer",
+                    "czech": "Převod peněz",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "kolikkorundostanuzajedenamerickydolar",
+                    "english": "How many crowns I get for 1 US dollar?",
+                    "czech": "Kolik korun dostanu za jeden americký dolar?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "jakyjevaspin",
+                    "english": "What is your PIN number?",
+                    "czech": "Jaký je váš PIN?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "mateunaskonto",
+                    "english": "Do you have an account with us?",
+                    "czech": "Máte u nás konto?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "obcanskyprukazprosim",
+                    "english": "Identity card, please.",
+                    "czech": "Občanský průkaz, prosím.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "nemyneberemeosobniseky",
+                    "english": "No, we don't take personal checks.",
+                    "czech": "Ne, my nebereme osobní šeky.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "prosimvyplntetentoformular",
+                    "english": "Please, fill out this form.",
+                    "czech": "Prosím, vyplňte tento formulář.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "kolik",
+                    "english": "How much?",
+                    "czech": "Kolik?",
+                    "czech_detail": "\nsame as: How many?"
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "kolik",
+                    "english": "How many?",
+                    "czech": "Kolik?",
+                    "czech_detail": "\nsame as: How much?"
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "mohumluvitsmanazerem",
+                    "english": "Can I talk to a manager?",
+                    "czech": "Mohu mluvit s manažerem?",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  6 ,
+            "name" : " At restaurant ",
+            "image" : "ic_at restaurant",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "vrestauraci",
+                    "english": "At restaurant",
+                    "czech": "V restauraci",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "snidane",
+                    "english": "Breakfast",
+                    "czech": "Snídaně",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "brunch",
+                    "english": "Brunch",
+                    "czech": "Brunch",
+                    "czech_detail": "\n- same as in English\nor: Branč"
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "obed",
+                    "english": "Lunch",
+                    "czech": "Oběd",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "vecere",
+                    "english": "Dinner",
+                    "czech": "Večeře",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "predkrm",
+                    "english": "Appetizer",
+                    "czech": "Předkrm",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "polevka",
+                    "english": "Soup",
+                    "czech": "Polévka",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "listovysalat",
+                    "english": "Salad",
+                    "czech": "Listový salát",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "hlavnichod",
+                    "english": "Entreé",
+                    "czech": "Hlavní chod",
+                    "czech_detail": "\nmeans: Main course"
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "dezert",
+                    "english": "Dessert",
+                    "czech": "Dezert",
+                    "czech_detail": "\nalso: Zákusek or Moučník"
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "jidelnilistek",
+                    "english": "Menu",
+                    "czech": "Jídelní lístek",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "napojovylistek",
+                    "english": "Wine and Drink list",
+                    "czech": "Nápojový lístek",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "cepovanepivo",
+                    "english": "Draft Beer",
+                    "czech": "Čepované pivo",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "lahvovepivo",
+                    "english": "Bottled beer",
+                    "czech": "Lahvové pivo",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "tmavepivo",
+                    "english": "Dark Beer",
+                    "czech": "Tmavé pivo",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "svetlylezak",
+                    "english": "Pale Lager",
+                    "czech": "Světlý ležák",
+                    "czech_detail": "\n- most common Czech beer"
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "plzenskyprazdroj",
+                    "english": "Pilsner Urquell",
+                    "czech": "Plzeňský Prazdroj",
+                    "czech_detail": "\nor: Plzeň\n- Pilsner means from city of Pilsen (Plzeň)"
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "budvar",
+                    "english": "Budweiser",
+                    "czech": "Budvar",
+                    "czech_detail": "\n- beer from city of Czech Budweis (České Budějovice)\n- not an American Budweisser"
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "vino",
+                    "english": "Wine",
+                    "czech": "Víno",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "sklenice",
+                    "english": "Glass",
+                    "czech": "Sklenice",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "stamprle",
+                    "english": "Shooter",
+                    "czech": "Štamprle",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "talir",
+                    "english": "Plate",
+                    "czech": "Talíř",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "lzice",
+                    "english": "Spoon",
+                    "czech": "Lžíce",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "vidlicka",
+                    "english": "Fork",
+                    "czech": "Vidlička",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "nuz",
+                    "english": "Knife",
+                    "czech": "Nůž",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "dobrouchut",
+                    "english": "Enjoy your meal!",
+                    "czech": "Dobrou chuť!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "nazdravi",
+                    "english": "Cheers!",
+                    "czech": "Na zdraví!",
+                    "czech_detail": "\nmeans: To our health!"
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "kdejetoaleta",
+                    "english": "Where is a toilet?",
+                    "czech": "Kde je toaleta?",
+                    "czech_detail": "\nalso: WC or Záchod or 00"
+                }
+                ,
+                {
+                    "position":  28 ,
+                    "audio" : "zaplatim",
+                    "english": "I am ready to pay!",
+                    "czech": "Zaplatím!",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  29 ,
+                    "audio" : "tojevasedysko",
+                    "english": "That's your tip.",
+                    "czech": "To je vaše dýško.",
+                    "czech_detail": "\nalso: Tringelt or Spropitné"
+                }
+                ,
+                {
+                    "position":  30 ,
+                    "audio" : "jsemvegetarian",
+                    "english": "I am a vegetarian.",
+                    "czech": "Jsem vegetarián",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  31 ,
+                    "audio" : "jsemvegan",
+                    "english": "I am a vegan.",
+                    "czech": "Jsem vegan.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  32 ,
+                    "audio" : "mamalergiinaorechy",
+                    "english": "I have an alergy to nuts.",
+                    "czech": "Mám alergii na ořechy.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  33 ,
+                    "audio" : "matevybrano",
+                    "english": "We are ready to order.",
+                    "czech": "Máte vybráno?",
+                    "czech_detail": "\nliterary: Have you chosen?"
+                }
+                ,
+                {
+                    "position":  34 ,
+                    "audio" : "dejtemihodneleduprosim",
+                    "english": "Give me a lot of ice, please.",
+                    "czech": "Dejte mi hodně ledu, prosím.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  35 ,
+                    "audio" : "neperlivavoda",
+                    "english": "Non sparkling water",
+                    "czech": "Neperlivá voda",
+                    "czech_detail": "\nalso: Pramenitá voda"
+                }
+                ,
+                {
+                    "position":  36 ,
+                    "audio" : "jemneperlivavoda",
+                    "english": "Lightly sparkling water",
+                    "czech": "Jemně perlivá voda",
+                    "czech_detail": "\nalso: Jemně sycená voda"
+                }
+                ,
+                {
+                    "position":  37 ,
+                    "audio" : "perlivavoda",
+                    "english": "Sparkling water",
+                    "czech": "Perlivá voda",
+                    "czech_detail": "\nalso: Sycená voda"
+                }
+            ]
+        }
+        ,
+        {
+            "index":  7 ,
+            "name" : " Food ",
+            "image" : "ic_food",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "jidlo",
+                    "english": "Food",
+                    "czech": "Jídlo",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "ceskakuchyne",
+                    "english": "Czech home style cooking",
+                    "czech": "Česká kuchyně",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "svickovanasmetane",
+                    "english": "Roast beef with dumplings and creamy sauce",
+                    "czech": "Svíčková na smetaně",
+                    "czech_detail": "\nor: Svíčková"
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "veprovapecenesknedlikemasezelim",
+                    "english": "Roasted pork with dumplings and cabbage",
+                    "czech": "Vepřová pečeně s knedlíkem a se zelím",
+                    "czech_detail": "\nor: Vepřo-knedlo-zelo"
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "spanelskyptacek",
+                    "english": "Beef stuffed with sausage, eggs and pickles",
+                    "czech": "Španělský ptáček",
+                    "czech_detail": "\nmeans: a Little Spanish bird"
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "smazenyveprovyrizek",
+                    "english": "Fried pork schnitzel",
+                    "czech": "Smažený vepřový řízek",
+                    "czech_detail": "\nor: Řízek"
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "hovezigulas",
+                    "english": "Beef goulash",
+                    "czech": "Hovězí guláš",
+                    "czech_detail": "\nor: Guláš"
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "smazenysyr",
+                    "english": "Fried cheese",
+                    "czech": "Smažený sýr",
+                    "czech_detail": "\n- often with ham (se šunkou)"
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "grilovanekure",
+                    "english": "Roasted chicken",
+                    "czech": "Grilované kuře",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "testoviny",
+                    "english": "Pasta",
+                    "czech": "Těstoviny",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "varenebrambory",
+                    "english": "Boiled potatoes",
+                    "czech": "Vařené brambory",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "americkebrambory",
+                    "english": "Roasted potatoes with skin",
+                    "czech": "Americké brambory",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "michanebrambory",
+                    "english": "Mashed potatoes",
+                    "czech": "Míchané brambory",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "hranolky",
+                    "english": "French fries",
+                    "czech": "Hranolky",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "ryze",
+                    "english": "Rice",
+                    "czech": "Rýže",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "houskovyknedlik",
+                    "english": "Bread dumplings",
+                    "czech": "Houskový knedlík",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "bramborovyknedlik",
+                    "english": "Potato dumplings",
+                    "czech": "Bramborový knedlík",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "vajicka",
+                    "english": "Eggs",
+                    "czech": "Vajíčka",
+                    "czech_detail": "\nor: Vejce"
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "omeleta",
+                    "english": "Omelette",
+                    "czech": "Omeleta",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "hovezisvickova",
+                    "english": "Beef fillet",
+                    "czech": "Hovězí svíčková",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "veprovapanenka",
+                    "english": "Pork tenderloin",
+                    "czech": "Vepřová panenka",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "krevety",
+                    "english": "Shrimp",
+                    "czech": "Krevety",
+                    "czech_detail": "\nalso: Garnáty"
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "sopskysalat",
+                    "english": "Salad with bell peppers",
+                    "czech": "Šopský salát",
+                    "czech_detail": "\nor: Šopák"
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "vareny",
+                    "english": "Boiled",
+                    "czech": "Vařený",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "peceny",
+                    "english": "Roasted",
+                    "czech": "Pečený",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "smazeny",
+                    "english": "Fried",
+                    "czech": "Smažený",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "vtrojobalu",
+                    "english": "Breaded",
+                    "czech": "V trojobalu",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "vtesticku",
+                    "english": "In flour batter",
+                    "czech": "V těstíčku",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  28 ,
+                    "audio" : "ryba",
+                    "english": "Fish",
+                    "czech": "Ryba",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  29 ,
+                    "audio" : "veprovemaso",
+                    "english": "Pork meat",
+                    "czech": "Vepřové maso",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  30 ,
+                    "audio" : "hovezimaso",
+                    "english": "Beef meat",
+                    "czech": "Hovězí maso",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  31 ,
+                    "audio" : "kurecimaso",
+                    "english": "Chicken meat",
+                    "czech": "Kuřecí maso",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  32 ,
+                    "audio" : "telecimaso",
+                    "english": "Veal meat",
+                    "czech": "Telecí maso",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  33 ,
+                    "audio" : "jehnecimaso",
+                    "english": "Lamb meat",
+                    "czech": "Jehněčí maso",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  34 ,
+                    "audio" : "skopovemaso",
+                    "english": "Mutton meat",
+                    "czech": "Skopové maso",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  35 ,
+                    "audio" : "morskeplody",
+                    "english": "Seafood",
+                    "czech": "Mořské plody",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  36 ,
+                    "audio" : "vegetarianskejidlo",
+                    "english": "Vegetarian meal",
+                    "czech": "Vegetariánské jídlo",
+                    "czech_detail": "(person)"
+                }
+                ,
+                {
+                    "position":  37 ,
+                    "audio" : "vegetarian",
+                    "english": "Vegetarian",
+                    "czech": "Vegetarián",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  38 ,
+                    "audio" : "zmrzlina",
+                    "english": "Ice cream",
+                    "czech": "Zmrzlina",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  39 ,
+                    "audio" : "zmrzlinovypohar",
+                    "english": "Ice cream sunday",
+                    "czech": "Zmrzlinový pohár",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  40 ,
+                    "audio" : "pomeranc",
+                    "english": "Orange",
+                    "czech": "Pomeranč",
+                    "czech_detail": "\n- fruit, not a color"
+                }
+                ,
+                {
+                    "position":  41 ,
+                    "audio" : "banan",
+                    "english": "Banana",
+                    "czech": "Banán",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  42 ,
+                    "audio" : "ovoce",
+                    "english": "Fruit",
+                    "czech": "Ovoce",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  43 ,
+                    "audio" : "zelenina",
+                    "english": "Vegetables",
+                    "czech": "Zelenina",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  44 ,
+                    "audio" : "kolace",
+                    "english": "Kolaches",
+                    "czech": "Koláče",
+                    "czech_detail": "\nsingular: Koláč"
+                }
+            ]
+        }
+        ,
+        {
+            "index":  8 ,
+            "name" : " Prague ",
+            "image" : "ic_prague",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "praha",
+                    "english": "Prague",
+                    "czech": "Praha",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "prazskyhrad",
+                    "english": "Prague castle",
+                    "czech": "Pražský hrad",
+                    "czech_detail": "\nalso: Hradčany\nalso: Vyšehrad"
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "katedralasvatehovita",
+                    "english": "St. Vitus cathedral",
+                    "czech": "Katedrála Svatého Víta",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "karluvmost",
+                    "english": "Charles bridge",
+                    "czech": "Karlův most",
+                    "czech_detail": "\nNOT the same as: Karlák"
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "vaclavskenamesti",
+                    "english": "Wenceslas square",
+                    "czech": "Václavské náměstí",
+                    "czech_detail": "\nalso: Václavák"
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "narodnidivadlo",
+                    "english": "National theatre",
+                    "czech": "Národní divadlo",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "narodnimuzeum",
+                    "english": "National museum",
+                    "czech": "Národní muzeum",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "malastrana",
+                    "english": "Little Quarter",
+                    "czech": "Malá Strana",
+                    "czech_detail": "\naka: Lesser Town\naka: Lesser Quarter"
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "staremesto",
+                    "english": "Old town",
+                    "czech": "Staré Město",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "staromestskenamesti",
+                    "english": "Old town square",
+                    "czech": "Staroměstské náměstí",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "prazskyorloj",
+                    "english": "Prague astronomical clock",
+                    "czech": "Pražský orloj",
+                    "czech_detail": "\nor: Orloj"
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "prasnabrana",
+                    "english": "Powder tower",
+                    "czech": "Prašná brána",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "kostelpannymarievitezne",
+                    "english": "Church of our lady Victorious",
+                    "czech": "Kostel panny Marie Vítězné",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "prazskejezulatko",
+                    "english": "Infant Jesus of Prague",
+                    "czech": "Pražské Jezulátko",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "zidovskyhrbitov",
+                    "english": "Jewish cemetery",
+                    "czech": "Židovský hřbitov",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "petrinskarozhledna",
+                    "english": "Petřín lookout tower",
+                    "czech": "Petřínská rozhledna",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "lanovadrahanapetrin",
+                    "english": "Petřín funicular",
+                    "czech": "Lanová dráha na Petřín",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "zizkovskyvysilac",
+                    "english": "Žižkov television tower",
+                    "czech": "Žižkovský vysílač",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "staromestskaradnice",
+                    "english": "Old Town city hall",
+                    "czech": "Staroměstská radnice",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "obecnidum",
+                    "english": "Municipal House",
+                    "czech": "Obecní dům",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "metro",
+                    "english": "Subway",
+                    "czech": "Metro",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "pivovarufleku",
+                    "english": "Brewery U Fleků",
+                    "czech": "Pivovar U Fleků",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "kralkareliv",
+                    "english": "King Charles IV.",
+                    "czech": "Král Karel IV.",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  9 ,
+            "name" : " Shopping ",
+            "image" : "ic_shopping",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "nakupovani",
+                    "english": "Shopping",
+                    "czech": "Nakupování",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "kdejeobuv",
+                    "english": "Where is a shoe store?",
+                    "czech": "Kde je obuv?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "trh",
+                    "english": "Farmer's market",
+                    "czech": "Trh",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "obchodnidum",
+                    "english": "department store",
+                    "czech": "Obchodní dům",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "novinovabudka",
+                    "english": "News stand",
+                    "czech": "Novinová budka",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "lekarna",
+                    "english": "Pharmacy",
+                    "czech": "Lékárna",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "suvenyry",
+                    "english": "Souvenirs",
+                    "czech": "Suvenýry",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "posta",
+                    "english": "Post office",
+                    "czech": "Pošta",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "potrebuji5postovnichznamekdousa",
+                    "english": "I need 5 stamps to USA.",
+                    "czech": "Potřebuji 5 poštovních známek do USA.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "pohled",
+                    "english": "Post card",
+                    "czech": "Pohled",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "kdemohukoupitmarionety",
+                    "english": "Where can I buy a marionette?",
+                    "czech": "Kde mohu koupit marionety?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "chcikoupitkristalovouvazu",
+                    "english": "I want to buy a crystal vase.",
+                    "czech": "Chci koupit křišťálovou vázu.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "klenotnictvi",
+                    "english": "Jewlery store",
+                    "czech": "Klenotnictví",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "matebilezlato",
+                    "english": "Do you have white gold?",
+                    "czech": "Máte bílé zlato?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "odevy",
+                    "english": "Clothing store",
+                    "czech": "Oděvy",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "kdemohukoupitplavky",
+                    "english": "Where can I buy a swimming suit?",
+                    "czech": "Kde mohu koupit plavky?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "jemitomale",
+                    "english": "It's small on me.",
+                    "czech": "Je mi to malé.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "velke",
+                    "english": "Big",
+                    "czech": "Velké",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "matevetsicislo",
+                    "english": "Do you have a bigger size?",
+                    "czech": "Máte větší číslo?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "mensi",
+                    "english": "Smaller",
+                    "czech": "Menší",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "matetovcernem",
+                    "english": "Do you have it in black?",
+                    "czech": "Máte to v černém?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "chcityto",
+                    "english": "I want these.",
+                    "czech": "Chci tyto.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "chcitohle",
+                    "english": "I want this one.",
+                    "czech": "Chci tohle.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "nemamtolikpenez",
+                    "english": "I don't have that much money.",
+                    "czech": "Nemám tolik peněz.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "muzeteplatiteuramanebokorunama",
+                    "english": "You can pay with Euros or Czech crowns.",
+                    "czech": "Můžete platit Eurama nebo Korunama.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "muzuplatitkartou",
+                    "english": "Can I pay with a card?",
+                    "czech": "Můžu platit kartou?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "tentojerozbity",
+                    "english": "This one is broken.",
+                    "czech": "Tento je rozbitý.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "reznik",
+                    "english": "Butcher shop",
+                    "czech": "Řezník",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  28 ,
+                    "audio" : "zverimex",
+                    "english": "Pet store",
+                    "czech": "Zverimex",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  29 ,
+                    "audio" : "cukrarna",
+                    "english": "Pastry shop",
+                    "czech": "Cukrárna",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  30 ,
+                    "audio" : "pekarna",
+                    "english": "Bakery",
+                    "czech": "Pekárna",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  10 ,
+            "name" : " Countries ",
+            "image" : "ic_countries",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "zeme",
+                    "english": "Countries",
+                    "czech": "Země",
+                    "czech_detail": "\nsingular: Země (same as plular)"
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "ceskarepublika",
+                    "english": "Czech Republic",
+                    "czech": "Česká Republika",
+                    "czech_detail": "\nshortly: Czechia"
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "cechy",
+                    "english": "Bohemia",
+                    "czech": "Čechy",
+                    "czech_detail": "\n- west part of Czech Republic"
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "morava",
+                    "english": "Moravia",
+                    "czech": "Morava",
+                    "czech_detail": "\n- east part of Czech Republic"
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "slezsko",
+                    "english": "Silesia",
+                    "czech": "Slezsko",
+                    "czech_detail": "\n- north east part of Czech Republic (and Poland)"
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "evropa",
+                    "english": "Europe",
+                    "czech": "Evropa",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "nemecko",
+                    "english": "Germany",
+                    "czech": "Německo",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "polsko",
+                    "english": "Poland",
+                    "czech": "Polsko",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "madarsko",
+                    "english": "Hungary",
+                    "czech": "Maďarsko",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "rakousko",
+                    "english": "Austria",
+                    "czech": "Rakousko",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "australie",
+                    "english": "Australia",
+                    "czech": "Austrálie",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "slovensko",
+                    "english": "Slovakia",
+                    "czech": "Slovensko",
+                    "czech_detail": "\n- used to be part of Czechoslovakia"
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "slovinsko",
+                    "english": "Slovenia",
+                    "czech": "Slovinsko",
+                    "czech_detail": "\n- used to be part of Yugoslavia"
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "spojenestaty",
+                    "english": "United States",
+                    "czech": "Spojené Státy",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "kanada",
+                    "english": "Canada",
+                    "czech": "Kanada",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "novyzeland",
+                    "english": "New Zealand",
+                    "czech": "Nový Zéland",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "spojenekralovstvi",
+                    "english": "United Kingdom",
+                    "czech": "Spojené království",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "velkabritanie",
+                    "english": "Great Britain",
+                    "czech": "Velká Británie",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "skotsko",
+                    "english": "Scotland",
+                    "czech": "Skotsko",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "wales",
+                    "english": "Wales",
+                    "czech": "Wales",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "irsko",
+                    "english": "Ireland",
+                    "czech": "Irsko",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "severniirsko",
+                    "english": "Northern Ireland",
+                    "czech": "Severní Irsko",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "island",
+                    "english": "Iceland",
+                    "czech": "Island",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "italie",
+                    "english": "Italy",
+                    "czech": "Itálie",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "francie",
+                    "english": "France",
+                    "czech": "Francie",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "spanelsko",
+                    "english": "Spain",
+                    "czech": "Španělsko",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "rusko",
+                    "english": "Russia",
+                    "czech": "Rusko",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  11 ,
+            "name" : " Family ",
+            "image" : "ic_family",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "rodina",
+                    "english": "Family",
+                    "czech": "Rodina",
+                    "czech_detail": "\nplular: Rodiny"
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "tojemujbratr",
+                    "english": "That's my brother.",
+                    "czech": "To je můj bratr.",
+                    "czech_detail": "\nplular: To jsou moji bratři."
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "nemamzadnesourozence",
+                    "english": "I don't have any siblings.",
+                    "czech": "Nemám žádné sourozence.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "sestra",
+                    "english": "Sister",
+                    "czech": "Sestra",
+                    "czech_detail": "\nplular: Sestry"
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "nevlastnisestra",
+                    "english": "Step sister",
+                    "czech": "Nevlastní sestra",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "otec",
+                    "english": "Father",
+                    "czech": "Otec",
+                    "czech_detail": "\nplular: Otci\nDad: Táta"
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "matka",
+                    "english": "Mother",
+                    "czech": "Matka",
+                    "czech_detail": "\nplular: Matky\nMom: Máma"
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "dedecek",
+                    "english": "Grandfather",
+                    "czech": "Dědeček",
+                    "czech_detail": "\nplular: Dědečkové\nGrandpa: Děda"
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "babicka",
+                    "english": "Grandmother",
+                    "czech": "Babička",
+                    "czech_detail": "\nplular: Babičky"
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "bratranec",
+                    "english": "Cousin (male)",
+                    "czech": "Bratranec",
+                    "czech_detail": "\nplular: Bratranci"
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "sestrenice",
+                    "english": "Cousin (female)",
+                    "czech": "Sestřenice",
+                    "czech_detail": "\nplular: Sestřenice (same as singular)"
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "syn",
+                    "english": "Son",
+                    "czech": "Syn",
+                    "czech_detail": "\nplular: Syni"
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "dcera",
+                    "english": "Daughter",
+                    "czech": "Dcera",
+                    "czech_detail": "\nplular: Dcery"
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "vnuk",
+                    "english": "Grandson",
+                    "czech": "Vnuk",
+                    "czech_detail": "\nplular: Vnuci"
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "vnucka",
+                    "english": "Grand daughter",
+                    "czech": "Vnučka",
+                    "czech_detail": "\nplular: Vnučky"
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "synovec",
+                    "english": "Nephew",
+                    "czech": "Synovec",
+                    "czech_detail": "\nplular: Synovci"
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "neter",
+                    "english": "Niece",
+                    "czech": "Neteř",
+                    "czech_detail": "\nplular: Neteře"
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "pradedecek",
+                    "english": "Great grandfather",
+                    "czech": "Pradědeček",
+                    "czech_detail": "\nplular: Pradědečci\nGreat grandpa: Praděda"
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "prababicka",
+                    "english": "Great grandmother",
+                    "czech": "Prababička",
+                    "czech_detail": "\nplular: Prababičky"
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "stryc",
+                    "english": "Uncle",
+                    "czech": "Strýc",
+                    "czech_detail": "\nplular: Strýci"
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "teta",
+                    "english": "Aunt",
+                    "czech": "Teta",
+                    "czech_detail": "\nplular: Tety"
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "svagr",
+                    "english": "Brother-in-law",
+                    "czech": "Švagr",
+                    "czech_detail": "\nplular: Švagři"
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "svagrova",
+                    "english": "Sister-in-law",
+                    "czech": "Švagrová",
+                    "czech_detail": "\nplular: Švagrové"
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "snoubenec",
+                    "english": "Fiancé",
+                    "czech": "Snoubenec",
+                    "czech_detail": "\nplular: Snoubenci"
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "snoubenka",
+                    "english": "Fiancée",
+                    "czech": "Snoubenka",
+                    "czech_detail": "\nplular: Snoubenky"
+                }
+            ]
+        }
+        ,
+        {
+            "index":  12 ,
+            "name" : " Calendar ",
+            "image" : "ic_calendar",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "kalendar",
+                    "english": "Calendar",
+                    "czech": "Kalendář",
+                    "czech_detail": "\nplular: Kalendáře"
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "den",
+                    "english": "Day",
+                    "czech": "Den",
+                    "czech_detail": "\nplular: Dny"
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "tyden",
+                    "english": "Week",
+                    "czech": "Týden",
+                    "czech_detail": "\nplular: Týdny"
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "mesic",
+                    "english": "Month",
+                    "czech": "Měsíc",
+                    "czech_detail": "\nplular: Měsíce"
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "rocniobdobi",
+                    "english": "Season",
+                    "czech": "Roční období",
+                    "czech_detail": "\nplular: Roční období (same as singular)"
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "pondeli",
+                    "english": "Monday",
+                    "czech": "Pondělí",
+                    "czech_detail": "\nplular: Pondělí (same as singular)"
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "utery",
+                    "english": "Tuesday",
+                    "czech": "Úterý",
+                    "czech_detail": "\nplular: Úterý (same as singular)"
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "streda",
+                    "english": "Wednesday",
+                    "czech": "Středa",
+                    "czech_detail": "\nplular: Středy"
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "ctvrtek",
+                    "english": "Thursday",
+                    "czech": "Čtvrtek",
+                    "czech_detail": "\nplular: Čtvrtky"
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "patek",
+                    "english": "Friday",
+                    "czech": "Pátek",
+                    "czech_detail": "\nplular: Pátky"
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "sobota",
+                    "english": "Saturday",
+                    "czech": "Sobota",
+                    "czech_detail": "\nplular: Soboty"
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "nedele",
+                    "english": "Sunday",
+                    "czech": "Neděle",
+                    "czech_detail": "\nplular: Neděle (same as singular)"
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "leden",
+                    "english": "January",
+                    "czech": "Leden",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "unor",
+                    "english": "February",
+                    "czech": "Únor",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "brezen",
+                    "english": "March",
+                    "czech": "Březen",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "duben",
+                    "english": "April",
+                    "czech": "Duben",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "kveten",
+                    "english": "May",
+                    "czech": "Květen",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "cerven",
+                    "english": "June",
+                    "czech": "Červen",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "cervenec",
+                    "english": "July",
+                    "czech": "Červenec",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "srpen",
+                    "english": "August",
+                    "czech": "Srpen",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "zari",
+                    "english": "September",
+                    "czech": "Září",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "rijen",
+                    "english": "October",
+                    "czech": "Říjen",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "listopad",
+                    "english": "November",
+                    "czech": "Listopad",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "prosinec",
+                    "english": "December",
+                    "czech": "Prosinec",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "jaro",
+                    "english": "Spring",
+                    "czech": "Jaro",
+                    "czech_detail": "\nplular: Jara"
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "leto",
+                    "english": "Summer",
+                    "czech": "Léto",
+                    "czech_detail": "\nplular: Léta"
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "podzim",
+                    "english": "Fall",
+                    "czech": "Podzim",
+                    "czech_detail": "\nplular: Podzimy"
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "zima",
+                    "english": "Winter",
+                    "czech": "Zima",
+                    "czech_detail": "\nplular: Zimy"
+                }
+                ,
+                {
+                    "position":  28 ,
+                    "audio" : "velikonoce",
+                    "english": "Easter",
+                    "czech": "Velikonoce",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  29 ,
+                    "audio" : "vanoce",
+                    "english": "Christmas",
+                    "czech": "Vánoce",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  30 ,
+                    "audio" : "stedryden",
+                    "english": "Christmas Eve",
+                    "czech": "Štědrý den",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  31 ,
+                    "audio" : "silvestr",
+                    "english": "New year's Eve",
+                    "czech": "Silvestr",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  32 ,
+                    "audio" : "stastnynovyrok",
+                    "english": "Happy new year!",
+                    "czech": "Šťastný nový rok",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  33 ,
+                    "audio" : "dennezavislosti",
+                    "english": "Independence day",
+                    "czech": "Den nezávislosti",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  34 ,
+                    "audio" : "dendikuvzdani",
+                    "english": "Thanksgiving",
+                    "czech": "Den díkuvzdání",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  35 ,
+                    "audio" : "svatekprace",
+                    "english": "Labor day",
+                    "czech": "Svátek práce",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  36 ,
+                    "audio" : "pamatkazesnulych",
+                    "english": "Memorial day",
+                    "czech": "Památka zesnulých",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  13 ,
+            "name" : " Colors ",
+            "image" : "ic_colors",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "barvy",
+                    "english": "Colors",
+                    "czech": "Barvy",
+                    "czech_detail": "\nsingular: Barva"
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "bila",
+                    "english": "White",
+                    "czech": "Bílá",
+                    "czech_detail": "(feminine)\nBílý (masculine)\nBílé (neuter)"
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "zluta",
+                    "english": "Yellow",
+                    "czech": "Žlutá",
+                    "czech_detail": "(feminine)\nŽlutý (masculine)\nŽluté (neuter)"
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "oranzova",
+                    "english": "Orange",
+                    "czech": "Oranžová",
+                    "czech_detail": "(feminine)\nOranžový (masculine)\nOranžové (neuter)"
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "zelena",
+                    "english": "Green",
+                    "czech": "Zelená",
+                    "czech_detail": "(feminine)\nZelený (masculine)\nZelené (neuter)"
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "modra",
+                    "english": "Blue",
+                    "czech": "Modrá",
+                    "czech_detail": "(feminine)\nModrý (masculine)\nModré (neuter)"
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "svetlemodra",
+                    "english": "Light Blue",
+                    "czech": "Světle Modrá",
+                    "czech_detail": "(feminine)\nSvětle Modrý (masculine)\nSvětle Modré (neuter)"
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "tmavemodra",
+                    "english": "Dark Blue",
+                    "czech": "Tmavě Modrá",
+                    "czech_detail": "(feminine)\nTmavě Modrý (masculine)\nTmavě Modré (neuter)"
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "fialova",
+                    "english": "Purple",
+                    "czech": "Fialová",
+                    "czech_detail": "(feminine)\nFialový (masculine)\nFialové (neuter)"
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "stribrna",
+                    "english": "Silver",
+                    "czech": "Stříbrná",
+                    "czech_detail": "(feminine)\nStříbrný (masculine)\nStříbrné (neuter)"
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "zlata",
+                    "english": "Gold",
+                    "czech": "Zlatá",
+                    "czech_detail": "(feminine)\nZlatý (masculine)\nZlaté (neuter)"
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "hneda",
+                    "english": "Brown",
+                    "czech": "Hnědá",
+                    "czech_detail": "(feminine)\nHnědý (masculine)\nHnědé (neuter)"
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "seda",
+                    "english": "Gray",
+                    "czech": "Šedá",
+                    "czech_detail": "(feminine)\nŠedý (masculine)\nŠedé (neuter)"
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "ruzova",
+                    "english": "Pink",
+                    "czech": "Růžová",
+                    "czech_detail": "(feminine)\nRůžový (masculine)\nRůžové (neuter)"
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "cervena",
+                    "english": "Red",
+                    "czech": "Červená",
+                    "czech_detail": "(feminine)\nČervený (masculine)\nČervené (neuter)"
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "cerna",
+                    "english": "Black",
+                    "czech": "Černá",
+                    "czech_detail": "(feminine)\nČerný (masculine)\nČerné (neuter)"
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "bezova",
+                    "english": "Beige",
+                    "czech": "Béžová",
+                    "czech_detail": "(feminine)\nBéžový (masculine)\nBéžové (neuter)"
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "metaliza",
+                    "english": "Metalic",
+                    "czech": "Metalíza",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "zrzava",
+                    "english": "Red hair",
+                    "czech": "Zrzavá",
+                    "czech_detail": "(feminine)\nZrzavý (masculine)\nZrzavé (neuter)"
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "tmavovlasa",
+                    "english": "Brunette",
+                    "czech": "Tmavovlasá",
+                    "czech_detail": "(feminine)\nTmavovlasý (masculine)\nTmavovlasé (neuter)"
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "blondyna",
+                    "english": "Blond",
+                    "czech": "Blondýna",
+                    "czech_detail": "(feminine)\nBlonďák (masculine)\nBlonďavé (neuter)"
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "odstin",
+                    "english": "Hue",
+                    "czech": "Odstín",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  14 ,
+            "name" : " Time ",
+            "image" : "ic_time",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "cas",
+                    "english": "Time",
+                    "czech": "Čas",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "jeosmhodin",
+                    "english": "It's 8 o'clock.",
+                    "czech": "Je osm hodin.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "jeosmhodinapetminut",
+                    "english": "It's 8:05.",
+                    "czech": "Je osm hodin a pět minut.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "jectvrtnadevet",
+                    "english": "It's quarter past 8.",
+                    "czech": "Je čtvrt (¼) na devět.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "jezapetminutpuldevate",
+                    "english": "It's 8:25.",
+                    "czech": "Je za pět minut půl deváté.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "jepuldevate",
+                    "english": "It's half past 8.",
+                    "czech": "Je půl deváté.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "jepuldevateapetminut",
+                    "english": "It's 8:35.",
+                    "czech": "Je půl deváté a pět minut.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "jetrictvrtenadevet",
+                    "english": "It's quarter till 9.",
+                    "czech": "Je tři čtvrtě (¾) na devět.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "jezapetminutdevet",
+                    "english": "It's 8:55.",
+                    "czech": "Je za pět minut devět.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "jeosmhodinrano",
+                    "english": "It's 8 o'clock am.",
+                    "czech": "Je osm hodin ráno.",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "jeosmhodinvecer",
+                    "english": "It's 8 o'clock pm.",
+                    "czech": "Je osm hodin večer.",
+                    "czech_detail": "\nor: Je dvacet hodin."
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "kolikjehodin",
+                    "english": "What time is it?",
+                    "czech": "Kolik je hodin?",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "mascas",
+                    "english": "Do you have a minute?",
+                    "czech": "Máš čas?",
+                    "czech_detail": "\nliterally: Do you have time?"
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "sekunda",
+                    "english": "Second",
+                    "czech": "Sekunda",
+                    "czech_detail": "\nplular: Sekundy"
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "minuta",
+                    "english": "Minute",
+                    "czech": "Minuta",
+                    "czech_detail": "\nplular: Minuty"
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "hodina",
+                    "english": "Hour",
+                    "czech": "Hodina",
+                    "czech_detail": "\nplular: Hodiny"
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "hodiny",
+                    "english": "Clock",
+                    "czech": "Hodiny",
+                    "czech_detail": "\nplular: Hodiny\n(same as singular)"
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "hodinky",
+                    "english": "Watch",
+                    "czech": "Hodinky",
+                    "czech_detail": "\nplular: Hodinky\n(same as singular)"
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "rano",
+                    "english": "Morning",
+                    "czech": "Ráno",
+                    "czech_detail": "\nplular: Rána\nalso: Dopoledne (before-noon)"
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "poledne",
+                    "english": "Noon",
+                    "czech": "Poledne",
+                    "czech_detail": "\nplular: Poledne (same as singular)"
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "odpoledne",
+                    "english": "Afternoon",
+                    "czech": "Odpoledne",
+                    "czech_detail": "\nplular: Odpoledne (same as singular)"
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "vecer",
+                    "english": "Evening",
+                    "czech": "Večer",
+                    "czech_detail": "\nplular: Večery"
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "noc",
+                    "english": "Night",
+                    "czech": "Noc",
+                    "czech_detail": "\nplular: Noci"
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "pulnoc",
+                    "english": "Midnight",
+                    "czech": "Půlnoc",
+                    "czech_detail": "\nplular: Půlnoci"
+                }
+            ]
+        }
+        ,
+        {
+            "index":  15 ,
+            "name" : " Verb to be ",
+            "image" : "ic_verb to be",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "slovesobyt",
+                    "english": "Verb to be",
+                    "czech": "Sloveso být",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "jajsem",
+                    "english": "I am",
+                    "czech": "Já jsem",
+                    "czech_detail": "\nnegative: Já nejsem"
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "tyjsi",
+                    "english": "You are (singular)",
+                    "czech": "Ty jsi",
+                    "czech_detail": "(familiar)\nnegative: Ty nejsi"
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "vyjste",
+                    "english": "You are (singular)",
+                    "czech": "Vy jste",
+                    "czech_detail": "(formal)\nnegative: Vy nejste"
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "onje",
+                    "english": "He is",
+                    "czech": "On je",
+                    "czech_detail": "\nnegative: On není"
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "onaje",
+                    "english": "She is",
+                    "czech": "Ona je",
+                    "czech_detail": "\nnegative: Ona není"
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "toje",
+                    "english": "It is",
+                    "czech": "To je",
+                    "czech_detail": "\nnegative: To není"
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "myjsme",
+                    "english": "We are",
+                    "czech": "My jsme",
+                    "czech_detail": "\nnegative: My nejsme"
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "vyjste",
+                    "english": "You are (plular)",
+                    "czech": "Vy jste",
+                    "czech_detail": "\nnegative: Vy nejste"
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "onijsou",
+                    "english": "They are",
+                    "czech": "Oni jsou",
+                    "czech_detail": "\nnegative: Oni nejsou"
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "jajsembyl",
+                    "english": "I was",
+                    "czech": "Já jsem byl",
+                    "czech_detail": "\nnegative: Já jsem nebyl"
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "tyjsibyl",
+                    "english": "You were (singular)",
+                    "czech": "Ty jsi byl",
+                    "czech_detail": "(familiar)\nnegative: Ty jsi nebyl"
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "vyjstebyl",
+                    "english": "You were (singular)",
+                    "czech": "Vy jste byl",
+                    "czech_detail": "(formal)\nnegative: Vy jste nebyl"
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "onbyl",
+                    "english": "He was",
+                    "czech": "On byl",
+                    "czech_detail": "\nnegative: On nebyl"
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "onabyla",
+                    "english": "She was",
+                    "czech": "Ona byla",
+                    "czech_detail": "\nnegative: Ona nebyla"
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "tobylo",
+                    "english": "It was",
+                    "czech": "To bylo",
+                    "czech_detail": "\nnegative: To nebylo"
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "myjsmebyli",
+                    "english": "We were",
+                    "czech": "My jsme byli",
+                    "czech_detail": "\nnegative: My jsme nebyli"
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "vyjstebyli",
+                    "english": "You were (plular)",
+                    "czech": "Vy jste byli",
+                    "czech_detail": "\nnegative: Vy jste nebyli"
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "onibyli",
+                    "english": "They were",
+                    "czech": "Oni byli",
+                    "czech_detail": "\nnegative: Oni nebyli"
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "jabudu",
+                    "english": "I will be",
+                    "czech": "Já budu",
+                    "czech_detail": "\nnegative: Já nebudu"
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "tybudes",
+                    "english": "You will be (singular)",
+                    "czech": "Ty budeš",
+                    "czech_detail": "(familiar)\nnegative: Ty nebudeš"
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "vybudete",
+                    "english": "You will be (singular)",
+                    "czech": "Vy budete",
+                    "czech_detail": "(formal)\nnegative: Vy nebudete"
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "onbude",
+                    "english": "He will be",
+                    "czech": "On bude",
+                    "czech_detail": "\nnegative: On nebude"
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "onabude",
+                    "english": "She will be",
+                    "czech": "Ona bude",
+                    "czech_detail": "\nnegative: Ona nebude"
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "tobude",
+                    "english": "It will be",
+                    "czech": "To bude",
+                    "czech_detail": "\nnegative: To nebude"
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "mybudeme",
+                    "english": "We will be",
+                    "czech": "My budeme",
+                    "czech_detail": "\nnegative: My nebudeme"
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "vybudete",
+                    "english": "You will be (plular)",
+                    "czech": "Vy budete",
+                    "czech_detail": "\nnegative: Vy nebudete"
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "onibudou",
+                    "english": "They will be",
+                    "czech": "Oni budou",
+                    "czech_detail": "\nnegative: Oni nebudou"
+                }
+            ]
+        }
+        ,
+        {
+            "index":  16 ,
+            "name" : " Alphabet ",
+            "image" : "ic_alphabet",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "abeceda",
+                    "english": "Alphabet",
+                    "czech": "Abeceda",
+                    "czech_detail": "\nPlular: Abecedy"
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "a",
+                    "english": "A",
+                    "czech": "A",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "b",
+                    "english": "B",
+                    "czech": "B",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "c",
+                    "english": "C",
+                    "czech": "C",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "cc",
+                    "english": "Č",
+                    "czech": "Č",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "d",
+                    "english": "D",
+                    "czech": "D",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "dd",
+                    "english": "Ď",
+                    "czech": "Ď",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "e",
+                    "english": "E",
+                    "czech": "E",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "f",
+                    "english": "F",
+                    "czech": "F",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "g",
+                    "english": "G",
+                    "czech": "G",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "h",
+                    "english": "H",
+                    "czech": "H",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "ch",
+                    "english": "CH",
+                    "czech": "CH",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "i",
+                    "english": "I",
+                    "czech": "I",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "j",
+                    "english": "J",
+                    "czech": "J",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "k",
+                    "english": "K",
+                    "czech": "K",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "l",
+                    "english": "L",
+                    "czech": "L",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "m",
+                    "english": "M",
+                    "czech": "M",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "n",
+                    "english": "N",
+                    "czech": "N",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "nn",
+                    "english": "Ň",
+                    "czech": "Ň",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "o",
+                    "english": "O",
+                    "czech": "O",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "p",
+                    "english": "P",
+                    "czech": "P",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "q",
+                    "english": "Q",
+                    "czech": "Q",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "r",
+                    "english": "R",
+                    "czech": "R",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "rr",
+                    "english": "Ř",
+                    "czech": "Ř",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "s",
+                    "english": "S",
+                    "czech": "S",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "ss",
+                    "english": "Š",
+                    "czech": "Š",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "t",
+                    "english": "T",
+                    "czech": "T",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "tt",
+                    "english": "Ť",
+                    "czech": "Ť",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  28 ,
+                    "audio" : "u",
+                    "english": "U",
+                    "czech": "U",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  29 ,
+                    "audio" : "v",
+                    "english": "V",
+                    "czech": "V",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  30 ,
+                    "audio" : "v",
+                    "english": "W",
+                    "czech": "W",
+                    "czech_detail": "\n- same as v"
+                }
+                ,
+                {
+                    "position":  31 ,
+                    "audio" : "x",
+                    "english": "X",
+                    "czech": "X",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  32 ,
+                    "audio" : "y",
+                    "english": "Y",
+                    "czech": "Y",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  33 ,
+                    "audio" : "z",
+                    "english": "Z",
+                    "czech": "Z",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  34 ,
+                    "audio" : "zz",
+                    "english": "Ž",
+                    "czech": "Ž",
+                    "czech_detail": ""
+                }
+            ]
+        }
+        ,
+        {
+            "index":  17 ,
+            "name" : " Numbers ",
+            "image" : "ic_numbers",
+            "phrases": [
+                {
+                    "position":  0 ,
+                    "audio" : "cisla",
+                    "english": "Numbers",
+                    "czech": "Čísla",
+                    "czech_detail": "\nsingular: Číslo"
+                }
+                ,
+                {
+                    "position":  1 ,
+                    "audio" : "jedna",
+                    "english": "One",
+                    "czech": "Jedna",
+                    "czech_detail": "(feminine)\nJeden (masculine)\nJedno (neuter)"
+                }
+                ,
+                {
+                    "position":  2 ,
+                    "audio" : "dve",
+                    "english": "Two",
+                    "czech": "Dvě",
+                    "czech_detail": "(feminine)\nDva (masculine)"
+                }
+                ,
+                {
+                    "position":  3 ,
+                    "audio" : "tri",
+                    "english": "Three",
+                    "czech": "Tři",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  4 ,
+                    "audio" : "ctyri",
+                    "english": "Four",
+                    "czech": "Čtyři",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  5 ,
+                    "audio" : "pet",
+                    "english": "Five",
+                    "czech": "Pět",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  6 ,
+                    "audio" : "sest",
+                    "english": "Six",
+                    "czech": "Šest",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  7 ,
+                    "audio" : "sedm",
+                    "english": "Seven",
+                    "czech": "Sedm",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  8 ,
+                    "audio" : "osm",
+                    "english": "Eight",
+                    "czech": "Osm",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  9 ,
+                    "audio" : "devet",
+                    "english": "Nine",
+                    "czech": "Devět",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  10 ,
+                    "audio" : "deset",
+                    "english": "Ten",
+                    "czech": "Deset",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  11 ,
+                    "audio" : "jedenact",
+                    "english": "Eleven",
+                    "czech": "Jedenáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  12 ,
+                    "audio" : "dvanact",
+                    "english": "Twelve",
+                    "czech": "Dvanáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  13 ,
+                    "audio" : "trinact",
+                    "english": "Thirteen",
+                    "czech": "Třináct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  14 ,
+                    "audio" : "ctrnact",
+                    "english": "Fourteen",
+                    "czech": "Čtrnáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  15 ,
+                    "audio" : "patnact",
+                    "english": "Fifteen",
+                    "czech": "Patnáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  16 ,
+                    "audio" : "sestnact",
+                    "english": "Sixteen",
+                    "czech": "Šestnáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  17 ,
+                    "audio" : "sedmnact",
+                    "english": "Seventeen",
+                    "czech": "Sedmnáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  18 ,
+                    "audio" : "osmnact",
+                    "english": "Eighteen",
+                    "czech": "Osmnáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  19 ,
+                    "audio" : "devatenact",
+                    "english": "Nineteen",
+                    "czech": "Devatenáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  20 ,
+                    "audio" : "dvacet",
+                    "english": "Twenty",
+                    "czech": "Dvacet",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  21 ,
+                    "audio" : "dvacetjedna",
+                    "english": "Twenty one",
+                    "czech": "Dvacet jedna",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  22 ,
+                    "audio" : "dvacetdva",
+                    "english": "Twenty two",
+                    "czech": "Dvacet dva",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  23 ,
+                    "audio" : "dvacettri",
+                    "english": "Twenty three",
+                    "czech": "Dvacet tři",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  24 ,
+                    "audio" : "tricet",
+                    "english": "Thirty",
+                    "czech": "Třicet",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  25 ,
+                    "audio" : "ctyricet",
+                    "english": "Forty",
+                    "czech": "Čtyřicet",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  26 ,
+                    "audio" : "padesat",
+                    "english": "Fifty",
+                    "czech": "Padesát",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  27 ,
+                    "audio" : "sedesat",
+                    "english": "Sixty",
+                    "czech": "Šedesát",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  28 ,
+                    "audio" : "sedmdesat",
+                    "english": "Seventy",
+                    "czech": "Sedmdesát",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  29 ,
+                    "audio" : "osmdesat",
+                    "english": "Eighty",
+                    "czech": "Osmdesát",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  30 ,
+                    "audio" : "devadesat",
+                    "english": "Ninety",
+                    "czech": "Devadesát",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  31 ,
+                    "audio" : "sto",
+                    "english": "Hundred",
+                    "czech": "Sto",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  32 ,
+                    "audio" : "stojedna",
+                    "english": "Hundred and one",
+                    "czech": "Sto jedna",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  33 ,
+                    "audio" : "stojedenact",
+                    "english": "Hundred and eleven",
+                    "czech": "Sto jedenáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  34 ,
+                    "audio" : "dvesta",
+                    "english": "Two hundred",
+                    "czech": "Dvě sta",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  35 ,
+                    "audio" : "trista",
+                    "english": "Three hundred",
+                    "czech": "Tři sta",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  36 ,
+                    "audio" : "tisic",
+                    "english": "Thousand",
+                    "czech": "Tisíc",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  37 ,
+                    "audio" : "dvatisicectrnact",
+                    "english": "Two thousand fourteen",
+                    "czech": "Dva tisíce čtrnáct",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  38 ,
+                    "audio" : "milion",
+                    "english": "Million",
+                    "czech": "Milión",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  39 ,
+                    "audio" : "prvni",
+                    "english": "First",
+                    "czech": "První",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  40 ,
+                    "audio" : "druhy",
+                    "english": "Second",
+                    "czech": "Druhý",
+                    "czech_detail": ""
+                }
+                ,
+                {
+                    "position":  41 ,
+                    "audio" : "treti",
+                    "english": "Third",
+                    "czech": "Třetí",
+                    "czech_detail": ""
+                }
+            ]
+        }
+    ]}

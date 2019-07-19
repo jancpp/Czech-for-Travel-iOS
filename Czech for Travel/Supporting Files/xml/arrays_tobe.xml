@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_tobe_en">
+        <item>Verb to be</item>
+        <item>I am</item>
+        <item>You are (singular)</item>
+        <item>You are (singular)</item>
+        <item>He is</item>
+        <item>She is</item>
+        <item>It is</item>
+        <item>We are</item>
+        <item>You are (plular)</item>
+        <item>They are</item>
+        <item>I was</item>
+        <item>You were (singular)</item>
+        <item>You were (singular)</item>
+        <item>He was</item>
+        <item>She was</item>
+        <item>It was</item>
+        <item>We were</item>
+        <item>You were (plular)</item>
+        <item>They were</item>
+        <item>I will be</item>
+        <item>You will be (singular)</item>
+        <item>You will be (singular)</item>
+        <item>He will be</item>
+        <item>She will be</item>
+        <item>It will be</item>
+        <item>We will be</item>
+        <item>You will be (plular)</item>
+        <item>They will be</item>
+    </string-array>
+    <string-array name="array_tobe_cs_big">
+        <item>Sloveso být</item>
+        <item>Já jsem</item>
+        <item>Ty jsi</item>
+        <item>Vy jste</item>
+        <item>On je</item>
+        <item>Ona je</item>
+        <item>To je</item>
+        <item>My jsme</item>
+        <item>Vy jste</item>
+        <item>Oni jsou</item>
+        <item>Já jsem byl</item>
+        <item>Ty jsi byl</item>
+        <item>Vy jste byl</item>
+        <item>On byl</item>
+        <item>Ona byla</item>
+        <item>To bylo</item>
+        <item>My jsme byli</item>
+        <item>Vy jste byli</item>
+        <item>Oni byli</item>
+        <item>Já budu</item>
+        <item>Ty budeš</item>
+        <item>Vy budete</item>
+        <item>On bude</item>
+        <item>Ona bude</item>
+        <item>To bude</item>
+        <item>My budeme</item>
+        <item>Vy budete</item>
+        <item>Oni budou</item>
+    </string-array>
+    <string-array name="array_tobe_cs1">
+        <item></item>
+        <item></item>
+        <item>(familiar)</item>
+        <item>(formal)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>(familiar)</item>
+        <item>(formal)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>(familiar)</item>
+        <item>(formal)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_tobe_cs2">
+        <item></item>
+        <item>negative: Já nejsem</item>
+        <item>negative: Ty nejsi</item>
+        <item>negative: Vy nejste</item>
+        <item>negative: On není</item>
+        <item>negative: Ona není</item>
+        <item>negative: To není</item>
+        <item>negative: My nejsme</item>
+        <item>negative: Vy nejste</item>
+        <item>negative: Oni nejsou</item>
+        <item>negative: Já jsem nebyl</item>
+        <item>negative: Ty jsi nebyl</item>
+        <item>negative: Vy jste nebyl</item>
+        <item>negative: On nebyl</item>
+        <item>negative: Ona nebyla</item>
+        <item>negative: To nebylo</item>
+        <item>negative: My jsme nebyli</item>
+        <item>negative: Vy jste nebyli</item>
+        <item>negative: Oni nebyli</item>
+        <item>negative: Já nebudu</item>
+        <item>negative: Ty nebudeš</item>
+        <item>negative: Vy nebudete</item>
+        <item>negative: On nebude</item>
+        <item>negative: Ona nebude</item>
+        <item>negative: To nebude</item>
+        <item>negative: My nebudeme</item>
+        <item>negative: Vy nebudete</item>
+        <item>negative: Oni nebudou</item>
+    </string-array>
+    <string-array name="array_tobe_cs3">
+         <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

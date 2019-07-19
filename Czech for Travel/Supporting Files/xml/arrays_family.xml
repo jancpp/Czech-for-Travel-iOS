@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_family_en">
+        <item>Family</item>
+        <item>That\'s my brother.</item>
+        <item>I don\'t have any siblings.</item>
+        <item>Sister</item>
+        <item>Step sister</item>
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Grandfather</item>
+        <item>Grandmother</item>
+        <item>Cousin (male)</item>
+        <item>Cousin (female)</item>
+        <item>Son</item>
+        <item>Daughter</item>
+        <item>Grandson</item>
+        <item>Grand daughter</item>
+        <item>Nephew</item>
+        <item>Niece</item>
+        <item>Great grandfather</item>
+        <item>Great grandmother</item>
+        <item>Uncle</item>
+        <item>Aunt</item>
+        <item>Brother-in-law</item>
+        <item>Sister-in-law</item>
+        <item>Fiancé</item>
+        <item>Fiancée</item>
+
+    </string-array>
+    <string-array name="array_family_cs_big">
+        <item>Rodina</item>
+        <item>To je můj bratr.</item>
+        <item>Nemám žádné sourozence.</item>
+        <item>Sestra</item>
+        <item>Nevlastní sestra</item>
+        <item>Otec</item>
+        <item>Matka</item>
+        <item>Dědeček</item>
+        <item>Babička</item>
+        <item>Bratranec</item>
+        <item>Sestřenice</item>
+        <item>Syn</item>
+        <item>Dcera</item>
+        <item>Vnuk</item>
+        <item>Vnučka</item>
+        <item>Synovec</item>
+        <item>Neteř</item>
+        <item>Pradědeček</item>
+        <item>Prababička</item>
+        <item>Strýc</item>
+        <item>Teta</item>
+        <item>Švagr</item>
+        <item>Švagrová</item>
+        <item>Snoubenec</item>
+        <item>Snoubenka</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_family_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_family_cs2">
+        <item>plular: Rodiny</item>
+        <item>plular: To jsou moji bratři.</item>
+        <item></item>
+        <item>plular: Sestry</item>
+        <item></item>
+        <item>plular: Otci</item>
+        <item>plular: Matky</item>
+        <item>plular: Dědečkové</item>
+        <item>plular: Babičky</item>
+        <item>plular: Bratranci</item>
+        <item>plular: Sestřenice (same as singular)</item>
+        <item>plular: Syni</item>
+        <item>plular: Dcery</item>
+        <item>plular: Vnuci</item>
+        <item>plular: Vnučky</item>
+        <item>plular: Synovci</item>
+        <item>plular: Neteře</item>
+        <item>plular: Pradědečci</item>
+        <item>plular: Prababičky</item>
+        <item>plular: Strýci</item>
+        <item>plular: Tety</item>
+        <item>plular: Švagři</item>
+        <item>plular: Švagrové</item>
+        <item>plular: Snoubenci</item>
+        <item>plular: Snoubenky</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_family_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Dad: Táta</item>
+        <item>Mom: Máma</item>
+        <item>Grandpa: Děda</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Great grandpa: Praděda</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_shopping_en">
+        <item>Shopping</item>
+        <item>Where is a shoe store?</item>
+        <item>Farmer\'s market</item>
+        <item>department store</item>
+        <item>News stand</item>
+        <item>Pharmacy</item>
+        <item>Souvenirs</item>
+        <item>Post office</item>
+        <item>I need 5 stamps to USA.</item>
+        <item>Post card</item>
+        <item>Where can I buy a marionette?</item>
+        <item>I want to buy a crystal vase.</item>
+        <item>Jewlery store</item>
+        <item>Do you have white gold?</item>
+        <item>Clothing store</item>
+        <item>Where can I buy a swimming suit?</item>
+        <item>It\'s small on me.</item>
+        <item>Big</item>
+        <item>Do you have a bigger size?</item>
+        <item>Smaller</item>
+        <item>Do you have it in black?</item>
+        <item>I want these.</item>
+        <item>I want this one.</item>
+        <item>I don\'t have that much money.</item>
+        <item>You can pay with Euros or Czech crowns.</item>
+        <item>Can I pay with a card?</item>
+        <item>This one is broken.</item>
+        <item>Butcher shop</item>
+        <item>Pet store</item>
+        <item>Pastry shop</item>
+        <item>Bakery</item>
+    </string-array>
+    <string-array name="array_shopping_cs_big">
+        <item>Nakupování</item>
+        <item>Kde je obuv?</item>
+        <item>Trh</item>
+        <item>Obchodní dům</item>
+        <item>Novinová budka</item>
+        <item>Lékárna</item>
+        <item>Suvenýry</item>
+        <item>Pošta</item>
+        <item>Potřebuji 5 poštovních známek do USA.</item>
+        <item>Pohled</item>
+        <item>Kde mohu koupit marionety?</item>
+        <item>Chci koupit křišťálovou vázu.</item>
+        <item>Klenotnictví</item>
+        <item>Máte bílé zlato?</item>
+        <item>Oděvy</item>
+        <item>Kde mohu koupit plavky?</item>
+        <item>Je mi to malé.</item>
+        <item>Velké</item>
+        <item>Máte větší číslo?</item>
+        <item>Menší</item>
+        <item>Máte to v černém?</item>
+        <item>Chci tyto.</item>
+        <item>Chci tohle.</item>
+        <item>Nemám tolik peněz.</item>
+        <item>Můžete platit Eurama nebo Korunama.</item>
+        <item>Můžu platit kartou?</item>
+        <item>Tento je rozbitý.</item>
+        <item>Řezník</item>
+        <item>Zverimex</item>
+        <item>Cukrárna</item>
+        <item>Pekárna</item>
+    </string-array>
+    <string-array name="array_shopping_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_shopping_cs2">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_shopping_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

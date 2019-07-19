@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_food_en">
+        <item>Food</item>
+        <item>Czech home style cooking</item>
+        <item>Roast beef with dumplings and creamy sauce</item>
+        <item>Roasted pork with dumplings and cabbage</item>
+        <item>Beef stuffed with sausage, eggs and pickles</item>
+        <item>Fried pork schnitzel</item>
+        <item>Beef goulash</item>
+        <item>Fried cheese</item>
+        <item>Roasted chicken</item>
+        <item>Pasta</item>
+        <item>Boiled potatoes</item>
+        <item>Roasted potatoes with skin</item>
+        <item>Mashed potatoes</item>
+        <item>French fries</item>
+        <item>Rice</item>
+        <item>Bread dumplings</item>
+        <item>Potato dumplings</item>
+        <item>Eggs</item>
+        <item>Omelette</item>
+        <item>Beef fillet</item>
+        <item>Pork tenderloin</item>
+        <item>Shrimp</item>
+        <item>Salad with bell peppers</item>
+        <item>Boiled</item>
+        <item>Roasted</item>
+        <item>Fried</item>
+        <item>Breaded</item>
+        <item>In flour batter</item>
+        <item>Fish</item>
+        <item>Pork meat</item>
+        <item>Beef meat</item>
+        <item>Chicken meat</item>
+        <item>Veal meat</item>
+        <item>Lamb meat</item>
+        <item>Mutton meat</item>
+        <item>Seafood</item>
+        <item>Vegetarian meal</item>
+        <item>Vegetarian</item>
+        <item>Ice cream</item>
+        <item>Ice cream sunday</item>
+        <item>Orange</item>
+        <item>Banana</item>
+        <item>Fruit</item>
+        <item>Vegetables</item>
+        <item>Kolaches</item>
+    </string-array>
+    <string-array name="array_food_cs_big">
+        <item>Jídlo</item>
+        <item>Česká kuchyně</item>
+        <item>Svíčková na smetaně</item>
+        <item>Vepřová pečeně s knedlíkem a se zelím</item>
+        <item>Španělský ptáček</item>
+        <item>Smažený vepřový řízek</item>
+        <item>Hovězí guláš</item>
+        <item>Smažený sýr</item>
+        <item>Grilované kuře</item>
+        <item>Těstoviny</item>
+        <item>Vařené brambory</item>
+        <item>Americké brambory</item>
+        <item>Míchané brambory</item>
+        <item>Hranolky</item>
+        <item>Rýže</item>
+        <item>Houskový knedlík</item>
+        <item>Bramborový knedlík</item>
+        <item>Vajíčka</item>
+        <item>Omeleta</item>
+        <item>Hovězí svíčková</item>
+        <item>Vepřová panenka</item>
+        <item>Krevety</item>
+        <item>Šopský salát</item>
+        <item>Vařený</item>
+        <item>Pečený</item>
+        <item>Smažený</item>
+        <item>V trojobalu</item>
+        <item>V těstíčku</item>
+        <item>Ryba</item>
+        <item>Vepřové maso</item>
+        <item>Hovězí maso</item>
+        <item>Kuřecí maso</item>
+        <item>Telecí maso</item>
+        <item>Jehněčí maso</item>
+        <item>Skopové maso</item>
+        <item>Mořské plody</item>
+        <item>Vegetariánské jídlo</item>
+        <item>Vegetarián</item>
+        <item>Zmrzlina</item>
+        <item>Zmrzlinový pohár</item>
+        <item>Pomeranč</item>
+        <item>Banán</item>
+        <item>Ovoce</item>
+        <item>Zelenina</item>
+        <item>Koláče</item>
+    </string-array>
+    <string-array name="array_food_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>(person)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_food_cs2">
+        <item></item>
+        <item></item>
+        <item>or: Svíčková</item>
+        <item>or: Vepřo-knedlo-zelo</item>
+        <item>means: a Little Spanish bird</item>
+        <item>or: Řízek</item>
+        <item>or: Guláš</item>
+        <item>- often with ham (se šunkou)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>or: Vejce</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>also: Garnáty</item>
+        <item>or: Šopák</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>- fruit, not a color</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>singular: Koláč</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_food_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

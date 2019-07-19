@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_numbers_en">
+        <item>Numbers</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+        <item>Eleven</item>
+        <item>Twelve</item>
+        <item>Thirteen</item>
+        <item>Fourteen</item>
+        <item>Fifteen</item>
+        <item>Sixteen</item>
+        <item>Seventeen</item>
+        <item>Eighteen</item>
+        <item>Nineteen</item>
+        <item>Twenty</item>
+        <item>Twenty one</item>
+        <item>Twenty two</item>
+        <item>Twenty three</item>
+        <item>Thirty</item>
+        <item>Forty</item>
+        <item>Fifty</item>
+        <item>Sixty</item>
+        <item>Seventy</item>
+        <item>Eighty</item>
+        <item>Ninety</item>
+        <item>Hundred</item>
+        <item>Hundred and one</item>
+        <item>Hundred and eleven</item>
+        <item>Two hundred</item>
+        <item>Three hundred</item>
+        <item>Thousand</item>
+        <item>Two thousand fourteen</item>
+        <item>Million</item>
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+    </string-array>
+    <string-array name="array_numbers_cs_big">
+        <item>Čísla</item>
+        <item>Jedna</item>
+        <item>Dvě</item>
+        <item>Tři</item>
+        <item>Čtyři</item>
+        <item>Pět</item>
+        <item>Šest</item>
+        <item>Sedm</item>
+        <item>Osm</item>
+        <item>Devět</item>
+        <item>Deset</item>
+        <item>Jedenáct</item>
+        <item>Dvanáct</item>
+        <item>Třináct</item>
+        <item>Čtrnáct</item>
+        <item>Patnáct</item>
+        <item>Šestnáct</item>
+        <item>Sedmnáct</item>
+        <item>Osmnáct</item>
+        <item>Devatenáct</item>
+        <item>Dvacet</item>
+        <item>Dvacet jenda</item>
+        <item>Dvacet dva</item>
+        <item>Dvacet tři</item>
+        <item>Třicet</item>
+        <item>Čtyřicet</item>
+        <item>Padesát</item>
+        <item>Šedesát</item>
+        <item>Sedmdesát</item>
+        <item>Osmdesát</item>
+        <item>Devadesát</item>
+        <item>Sto</item>
+        <item>Sto jedna</item>
+        <item>Sto jedenáct</item>
+        <item>Dvě sta</item>
+        <item>Tři sta</item>
+        <item>Tisíc</item>
+        <item>Dva tisíce čtrnáct</item>
+        <item>Milión</item>
+        <item>První</item>
+        <item>Druhý</item>
+        <item>Třetí</item>
+    </string-array>
+    <string-array name="array_numbers_cs1">
+        <item></item>
+        <item>(feminine)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_numbers_cs2">
+        <item>singular: Číslo</item>
+        <item>Jeden (masculine)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_numbers_cs3">
+        <item></item>
+        <item>Jedno (neuter)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

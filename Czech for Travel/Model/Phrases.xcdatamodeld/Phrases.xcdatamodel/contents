@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14490.99" systemVersion="18F132" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Category" representedClassName="Category" syncable="YES">
+        <attribute name="imageFileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="index" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="phrases" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Phrase" inverseName="category" inverseEntity="Phrase" syncable="YES"/>
+    </entity>
+    <entity name="Phrase" representedClassName="Phrase" syncable="YES">
+        <attribute name="audioFileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="czech" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="czechDetail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="english" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="position" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="category" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Category" inverseName="phrases" inverseEntity="Category" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Category" positionX="-391.48046875" positionY="-20.01953125" width="128" height="105"/>
+        <element name="Phrase" positionX="-54" positionY="0" width="128" height="135"/>
+    </elements>
+</model>

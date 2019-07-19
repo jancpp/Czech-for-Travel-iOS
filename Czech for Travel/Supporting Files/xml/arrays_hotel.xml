@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_hotel_en">
+        <item>At hotel</item>
+        <item>Front desk</item>
+        <item>What time does the gym open?</item>
+        <item>What time does the pool close?</item>
+        <item>Where is a restaurant?</item>
+        <item>Are you still serving food?</item>
+        <item>Room</item>
+        <item>Suite</item>
+        <item>View on river</item>
+        <item>Two twin beds</item>
+        <item>One king size bed</item>
+        <item>Non-smoking room</item>
+        <item>Room with air conditioning</item>
+        <item>Free Wi-Fi</item>
+        <item>I need a bathrobe.</item>
+        <item>Towels</item>
+        <item>Crib</item>
+        <item>Tooth paste</item>
+        <item>Tooth brush</item>
+        <item>Razor</item>
+        <item>Shaving foam</item>
+        <item>Ashtray</item>
+        <item>Where can I smoke?</item>
+    </string-array>
+    <string-array name="array_hotel_cs_big">
+        <item>V hotelu</item>
+        <item>Recepce</item>
+        <item>V kolik hodin se otevírá posilovna?</item>
+        <item>V kolik hodin se zavírá bazén?</item>
+        <item>Kde je restaurace?</item>
+        <item>Podáváte ještě jídlo?</item>
+        <item>Pokoj</item>
+        <item>Apartmá</item>
+        <item>Vyhlídka na řeku</item>
+        <item>Dvě oddělené postele</item>
+        <item>Jedno dvojlůžko</item>
+        <item>Nekuřácký pokoj</item>
+        <item>Pokoj s klimatizací</item>
+        <item>Wi-Fi s připojením zdarma</item>
+        <item>Potřebuji župan.</item>
+        <item>Ručníky</item>
+        <item>Dětská postýlka</item>
+        <item>Zubní pasta</item>
+        <item>Kartáček na zuby</item>
+        <item>Holící strojek</item>
+        <item>Pěna na holení</item>
+        <item>Popelník</item>
+        <item>Kde mohu kouřit?</item>
+    </string-array>
+    <string-array name="array_hotel_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_hotel_cs2">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_hotel_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

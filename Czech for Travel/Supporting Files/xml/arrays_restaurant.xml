@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_restaurant_en">
+        <item>At restaurant</item>
+        <item>Breakfast</item>
+        <item>Brunch</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Appetizer</item>
+        <item>Soup</item>
+        <item>Salad</item>
+        <item>Entreé</item>
+        <item>Dessert</item>
+        <item>Menu</item>
+        <item>Wine and Drink list</item>
+        <item>Draft Beer</item>
+        <item>Bottled beer</item>
+        <item>Dark Beer</item>
+        <item>Pale Lager</item>
+        <item>Pilsner Urquell</item>
+        <item>Budweiser</item>
+        <item>Wine</item>
+        <item>Glass</item>
+        <item>Shooter</item>
+        <item>Plate</item>
+        <item>Spoon</item>
+        <item>Fork</item>
+        <item>Knife</item>
+        <item>Enjoy your meal!</item>
+        <item>Cheers!</item>
+        <item>Where is a toilet?</item>
+        <item>I am ready to pay!</item>
+        <item>That\'s your tip.</item>
+        <item>I am a vegetarian.</item>
+        <item>I am a vegan.</item>
+        <item>I have an alergy to nuts.</item>
+        <item>We are ready to order.</item>
+        <item>Give me a lot of ice, please.</item>
+        <item>Non sparkling water</item>
+        <item>Lightly sparkling water</item>
+        <item>Sparkling water</item>
+    </string-array>
+    <string-array name="array_restaurant_cs_big">
+        <item>V restauraci</item>
+        <item>Snídaně</item>
+        <item>Brunch</item>
+        <item>Oběd</item>
+        <item>Večeře</item>
+        <item>Předkrm</item>
+        <item>Polévka</item>
+        <item>Listový salát</item>
+        <item>Hlavní chod</item>
+        <item>Dezert</item>
+        <item>Jídelní lístek</item>
+        <item>Nápojový lístek</item>
+        <item>Čepované pivo</item>
+        <item>Lahvové pivo</item>
+        <item>Tmavé pivo</item>
+        <item>Světlý ležák</item>
+        <item>Plzeňský Prazdroj</item>
+        <item>Budvar</item>
+        <item>Víno</item>
+        <item>Sklenice</item>
+        <item>Štamprle</item>
+        <item>Talíř</item>
+        <item>Lžíce</item>
+        <item>Vidlička</item>
+        <item>Nůž</item>
+        <item>Dobrou chuť!</item>
+        <item>Na zdraví!</item>
+        <item>Kde je toaleta?</item>
+        <item>Zaplatím!</item>
+        <item>To je vaše dýško.</item>
+        <item>Jsem vegetarián</item>
+        <item>Jsem vegan.</item>
+        <item>Mám alergii na ořechy.</item>
+        <item>Máme vybráno.</item>
+        <item>Dejte mi hodně ledu, prosím.</item>
+        <item>Neperlivá voda</item>
+        <item>Jemně perlivá voda</item>
+        <item>Perlivá voda</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_restaurant_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_restaurant_cs2">
+        <item></item>
+        <item></item>
+        <item>- same as in English</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>means: Main course</item>
+        <item>also: Zákusek or Moučník</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>- most common Czech beer</item>
+        <item>or: Plzeň</item>
+        <item>- beer from city of Czech Budweis (České Budějovice)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>means: To our health!</item>
+        <item>also: WC or Záchod or 00</item>
+        <item></item>
+        <item>also: Tringelt or Spropitné</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>literary: We have chosen.</item>
+        <item></item>
+        <item>also: Pramenitá voda</item>
+        <item>also: Jemně sycená voda</item>
+        <item>also: Sycená voda</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_restaurant_cs3">
+        <item></item>
+        <item></item>
+        <item>or: Branč</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>- Pilsner means from city of Pilsen (Plzeň)</item>
+        <item>- not an American Budweisser</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

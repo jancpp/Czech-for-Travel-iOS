@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_emergencies_en">
+        <item>In an emergency</item>
+        <item>Where is a hospital?</item>
+        <item>I cannot find my passport.</item>
+        <item>I\'m having a heart attack.</item>
+        <item>I need an inhaler.</item>
+        <item>Call an ambulance!</item>
+        <item>Call the police!</item>
+        <item>Somebody stole my wallet!</item>
+        <item>Thief!</item>
+        <item>Help!</item>
+        <item>Fire!</item>
+        <item>I\'ve had a car accident.</item>
+        <item>Watch out!</item>
+        <item>Flood</item>
+        <item>Police</item>
+        <item>Police officer</item>
+        <item>Police station</item>
+        <item>I am lost.</item>
+        <item>I lost my wallet.</item>
+        <item>I have a broken arm.</item>
+        <item>I am in labor.</item>
+        <item>I am a diabetic.</item>
+        <item>I need insulin.</item>
+        <item>I don\'t want a shot!</item>
+        <item>As soon as possible.</item>
+        <item>Medical insurance</item>
+        <item>I need a doctor that speaks English.</item>
+        <item>I have an alergic reaction.</item>
+        <item>Do you have high blood pressure?</item>
+        <item>Low blood pressure</item>
+        <item>I am on medication for asthma.</item>
+        <item>I have a toothache.</item>
+        <item>I have a migraine.</item>
+        <item>Addiction</item>
+        <item>Pacemaker</item>
+        <item>Miscarriage</item>
+        <item>It hurts here.</item>
+        <item>I take this medication.</item>
+    </string-array>
+    <string-array name="array_emergencies_cs_big">
+        <item>V případě nouze</item>
+        <item>Kde je nemocnice?</item>
+        <item>Nemůžu najít můj pas.</item>
+        <item>Mám infarkt.</item>
+        <item>Potřebuji inhalátor.</item>
+        <item>Zavolejte sanitku!</item>
+        <item>Volejte policii!</item>
+        <item>Někdo mi ukradl peněženku!</item>
+        <item>Zloděj!</item>
+        <item>Pomóc!</item>
+        <item>Hoří!</item>
+        <item>Naboural jsem se.</item>
+        <item>Pozor!</item>
+        <item>Povodeň</item>
+        <item>Policie</item>
+        <item>Policista</item>
+        <item>Policejní stanice</item>
+        <item>Ztratil jsem se.</item>
+        <item>Ztratil jsem peněženku.</item>
+        <item>Mám zlomenou ruku.</item>
+        <item>Budu rodit</item>
+        <item>Jsem diabetik.</item>
+        <item>Potřebuji  inzulín.</item>
+        <item>Já nechci injekci!</item>
+        <item>Co nejdřív.</item>
+        <item>Zdravotní pojištění</item>
+        <item>Potřebuji doktora, který mluví Anglicky.</item>
+        <item>Mám alergickou reakci.</item>
+        <item>Máte vysoký tlak?</item>
+        <item>Nízký tlak</item>
+        <item>Beru léky na astma.</item>
+        <item>Bolí mě zub.</item>
+        <item>Mám migrénu.</item>
+        <item>Závislost</item>
+        <item>Kardiostimulátor</item>
+        <item>Potrat</item>
+        <item>Bolí to tady.</item>
+        <item>Beru tyhle léky.</item>
+    </string-array>
+    <string-array name="array_emergencies_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>(masculine)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>(masculine)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_emergencies_cs2">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>plular: Zloději!</item>
+        <item></item>
+        <item></item>
+        <item>Nabourala jsem se. (feminine)</item>
+        <item></item>
+        <item>plular: Povodně</item>
+        <item></item>
+        <item>also: Strážník or Policejní důstojník</item>
+        <item></item>
+        <item>Ztratila jsem se. (feminine)</item>
+        <item></item>
+        <item></item>
+        <item>means: I\'ll be giving a birth.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>also: Okamžitě</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_emergencies_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

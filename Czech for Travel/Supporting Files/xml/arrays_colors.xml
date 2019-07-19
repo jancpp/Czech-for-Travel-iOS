@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_colors_en">
+        <item>Colors</item>
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Light Blue</item>
+        <item>Dark Blue</item>
+        <item>Purple</item>
+        <item>Silver</item>
+        <item>Gold</item>
+        <item>Brown</item>
+        <item>Gray</item>
+        <item>Pink</item>
+        <item>Red</item>
+        <item>Black</item>
+        <item>Beige</item>
+        <item>Metalic</item>
+        <item>Red hair</item>
+        <item>Brunette</item>
+        <item>Blond</item>
+        <item>Hue</item>
+    </string-array>
+    <string-array name="array_colors_cs_big">
+        <item>Barvy</item>
+        <item>Bílá</item>
+        <item>Žlutá</item>
+        <item>Oranžová</item>
+        <item>Zelená</item>
+        <item>Modrá</item>
+        <item>Světle Modrá</item>
+        <item>Tmavě Modrá</item>
+        <item>Fialová</item>
+        <item>Stříbrná</item>
+        <item>Zlatá</item>
+        <item>Hnědá</item>
+        <item>Šedá</item>
+        <item>Růžová</item>
+        <item>Červená</item>
+        <item>Černá</item>
+        <item>Béžová</item>
+        <item>Metalíza</item>
+        <item>Zrzavá</item>
+        <item>Tmavovlasá</item>
+        <item>Blondýna</item>
+        <item>Odstín</item>
+    </string-array>
+    <string-array name="array_colors_cs1">
+        <item></item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item></item>
+       <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item>(feminine)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_colors_cs2">
+        <item>singular: Barva</item>
+        <item>Bílý (masculine)</item>
+        <item>Žlutý (masculine)</item>
+        <item>Oranžový (masculine)</item>
+        <item>Zelený (masculine)</item>
+        <item>Modrý (masculine)</item>
+        <item>Světle Modrý (masculine)</item>
+        <item>Tmavě Modrý (masculine)</item>
+        <item>Fialový (masculine)</item>
+        <item>Stříbrný (masculine)</item>
+        <item>Zlatý (masculine)</item>
+        <item>Hnědý (masculine)</item>
+        <item>Šedý (masculine)</item>
+        <item>Růžový (masculine)</item>
+        <item>Červený (masculine)</item>
+        <item>Černý (masculine)</item>
+        <item>Béžový (masculine)</item>
+        <item></item>
+        <item>Zrzavý (masculine)</item>
+        <item>Tmavovlasý (masculine)</item>
+        <item>Blonďák (masculine)</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_colors_cs3">
+        <item></item>
+        <item>Bílé (neuter)</item>
+        <item>Žluté (neuter)</item>
+        <item>Oranžové (neuter)</item>
+        <item>Zelené (neuter)</item>
+        <item>Modré (neuter)</item>
+        <item>Světle Modré (neuter)</item>
+        <item>Tmavě Modré (neuter)</item>
+        <item>Fialové (neuter)</item>
+        <item>Stříbrné (neuter)</item>
+        <item>Zlaté (neuter)</item>
+        <item>Hnědé (neuter)</item>
+        <item>Šedé (neuter)</item>
+        <item>Růžové (neuter)</item>
+        <item>Červené (neuter)</item>
+        <item>Černé (neuter)</item>
+        <item>Béžové (neuter)</item>
+        <item></item>
+        <item>Zrzavé (neuter)</item>
+        <item>Tmavovlasé (neuter)</item>
+        <item>Blonďavé (neuter)</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

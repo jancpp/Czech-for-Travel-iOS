@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_greetings_en">
+        <item>Greetings </item>
+        <item>Hello</item>
+        <item>Good day</item>
+        <item>Good morning</item>
+        <item>Good afternoon</item>
+        <item>Good evening</item>
+        <item>Good night</item>
+        <item>See you later</item>
+        <item>Good bye</item>
+        <item>See ya</item>
+        <item>Bye</item>
+        <item>Take care</item>
+        <item>How are you?</item>
+        <item>How is it going?</item>
+        <item>Welcome to Czech Republic!</item>
+        <item>Cheers!</item>
+        <item>It was nice to see you.</item>
+        <item>Have a nice trip.</item>
+        <item>Happy Easter!</item>
+        <item>Marry Christmas!</item>
+        <item>Happy birthday!</item>
+        <item>Happy nameday!</item>
+    </string-array>
+    <string-array name="array_greetings_cs_big">
+        <item>Pozdravy</item>
+        <item>Ahoj</item>
+        <item>Dobrý den</item>
+        <item>Dobré ráno</item>
+        <item>Dobré odpoledne</item>
+        <item>Dobrý večer</item>
+        <item>Dobrou noc</item>
+        <item>Na schledanou</item>
+        <item>Na schledanou</item>
+        <item>Naschle</item>
+        <item>Čau</item>
+        <item>Měj se</item>
+        <item>Jak se máš?</item>
+        <item>Jak to jde?</item>
+        <item>Vítejte v České Republice!</item>
+        <item>Na zdraví!</item>
+        <item>Rád jsem vás viděl.</item>
+        <item>Šťastnou cestu.</item>
+        <item>Veselé Velikonoce!</item>
+        <item>Veselé Vánoce</item>
+        <item>Všechno nejlepší k narozeninám!</item>
+        <item>Všechno nejlepší k svátku!</item>
+    </string-array>
+    <string-array name="array_greetings_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_greetings_cs2">
+        <item>singular: Pozdrav</item>
+        <item>also: Čau, Nazdar</item>
+        <item>- used more often than Good morning or Good afternoon</item>
+        <item>- used only when you wake up</item>
+        <item>- used rarely (see Good day)</item>
+        <item>- never used during daylight</item>
+        <item>- used only when you go to sleep</item>
+        <item>same as: Good bye</item>
+        <item>same as: See you later</item>
+        <item></item>
+        <item>also: Ahoj</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>means: To our health!</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_greetings_cs3">
+        <item></item>
+        <item></item>
+        <item>- used during daylight</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>same as: Hello</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

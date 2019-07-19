@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_time_en">
+        <item>Time</item>
+        <item>It\'s 8 o\'clock.</item>
+        <item>It\'s 8:05.</item>
+        <item>It\'s quarter past 8.</item>
+        <item>It\'s 8:25.</item>
+        <item>It\'s half past 8.</item>
+        <item>It\'s 8:35.</item>
+        <item>It\'s quarter till 9.</item>
+        <item>It\'s 8:55.</item>
+        <item>It\'s 8 o\'clock am.</item>
+        <item>It\'s 8 o\'clock pm.</item>
+        <item>What time is it?</item>
+        <item>Do you have a minute?</item>
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Clock</item>
+        <item>Watch</item>
+        <item>Morning</item>
+        <item>Noon</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+        <item>Midnight</item>
+    </string-array>
+    <string-array name="array_time_cs_big">
+        <item>Čas</item>
+        <item>Je osm hodin.</item>
+        <item>Je osm hodin a pět minut.</item>
+        <item>Je čtvrt (&#188;) na devět.</item>
+        <item>Je za pět minut půl deváté.</item>
+        <item>Je půl deváté.</item>
+        <item>Je půl deváté a pět minut.</item>
+        <item>Je tři čtvrtě (&#190;) na devět.</item>
+        <item>Je za pět minut devět.</item>
+        <item>Je osm hodin ráno.</item>
+        <item>Je osm hodin večer.</item>
+        <item>Kolik je hodin?</item>
+        <item>Máš čas?</item>
+        <item>Sekunda</item>
+        <item>Minuta</item>
+        <item>Hodina</item>
+        <item>Hodiny</item>
+        <item>Hodinky</item>
+        <item>Ráno</item>
+        <item>Poledne</item>
+        <item>Odpoledne</item>
+        <item>Večer</item>
+        <item>Noc</item>
+        <item>Půlnoc</item>
+    </string-array>
+    <string-array name="array_time_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_time_cs2">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>or: Je šestnáct hodin.</item>
+        <item></item>
+        <item>literally: Do you have time?</item>
+        <item>plular: Sekundy</item>
+        <item>plular: Minuty</item>
+        <item>plular: Hodiny</item>
+        <item>plular: Hodiny</item>
+        <item>plular: Hodinky</item>
+        <item>plular: Rána</item>
+        <item>plular: Poledne (same as singular)</item>
+        <item>plular: Odpoledne (same as singular)</item>
+        <item>plular: Večery</item>
+        <item>plular: Noci</item>
+        <item>plular: Půlnoci</item>
+    </string-array>
+    <string-array name="array_time_cs3">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>(same as singular)</item>
+        <item>(same as singular)</item>
+        <item>also: Dopoledne (before-noon)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

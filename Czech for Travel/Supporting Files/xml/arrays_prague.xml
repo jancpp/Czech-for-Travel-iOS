@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_prague_en">
+        <item>Prague</item>
+        <item>Prague castle</item>
+        <item>St. Vitus cathedral</item>
+        <item>Charles bridge</item>
+        <item>Wenceslas square</item>
+        <item>National theatre</item>
+        <item>National museum</item>
+        <item>Little Quarter</item>
+        <item>Old town</item>
+        <item>Old town square</item>
+        <item>Prague astronomical clock</item>
+        <item>Powder tower</item>
+        <item>Church of our lady Victorious</item>
+        <item>Infant Jesus of Prague</item>
+        <item>Jewish cemetery</item>
+        <item>Petřín lookout tower</item>
+        <item>Petřín funicular</item>
+        <item>Žižkov television tower</item>
+        <item>Old Town city hall</item>
+        <item>Municipal House</item>
+        <item>Subway</item>
+        <item>Brewery U Fleků</item>
+        <item>King Charles IV.</item>
+    </string-array>
+    <string-array name="array_prague_cs_big">
+        <item>Praha</item>
+        <item>Pražský hrad</item>
+        <item>Katedrála Svatého Víta</item>
+        <item>Karlův most</item>
+        <item>Václavské náměestí</item>
+        <item>Národní divadlo</item>
+        <item>Národní muzeum</item>
+        <item>Malá Strana</item>
+        <item>Staré Město</item>
+        <item>Staroměstské náměstí</item>
+        <item>Pražský orloj</item>
+        <item>Prašná brána</item>
+        <item>Kostel panny Marie Vítězné</item>
+        <item>Pražské Jezulátko</item>
+        <item>Židovský hřbitov</item>
+        <item>Petřínská rozhledna</item>
+        <item>Lanová dráha na Petřín</item>
+        <item>Žižkovský vysílač</item>
+        <item>Staroměstská radnice</item>
+        <item>Obecní dům</item>
+        <item>Merto</item>
+        <item>Pivovar U Fleků</item>
+        <item>Král Karel IV.</item>
+    </string-array>
+    <string-array name="array_prague_cs1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_prague_cs2">
+        <item></item>
+        <item>also: Hradčany</item>
+        <item></item>
+        <item>NOT same as: Karlák</item>
+        <item>also: Václavák</item>
+        <item></item>
+        <item></item>
+        <item>aka: Lesser Town</item>
+        <item></item>
+        <item></item>
+        <item>or: Orloj</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="array_prague_cs3">
+        <item></item>
+        <item>also: Vyšehrad</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>aka: Lesser Quarter</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

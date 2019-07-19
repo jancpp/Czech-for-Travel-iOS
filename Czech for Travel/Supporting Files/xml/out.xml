@@ -1,0 +1,128 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<resources >
+<phrase>
+<english> Family </english>
+<czech> Rodina </czech>
+<czech_detail> \nplular: Rodiny </czech_detail>
+</phrase>
+<phrase>
+<english> That\'s my brother. </english>
+<czech> To je můj bratr. </czech>
+<czech_detail> \nplular: To jsou moji bratři. </czech_detail>
+</phrase>
+<phrase>
+<english> I don\'t have any siblings. </english>
+<czech> Nemám žádné sourozence. </czech>
+<czech_detail>  </czech_detail>
+</phrase>
+<phrase>
+<english> Sister </english>
+<czech> Sestra </czech>
+<czech_detail> \nplular: Sestry </czech_detail>
+</phrase>
+<phrase>
+<english> Step sister </english>
+<czech> Nevlastní sestra </czech>
+<czech_detail>  </czech_detail>
+</phrase>
+<phrase>
+<english> Father </english>
+<czech> Otec </czech>
+<czech_detail> \nplular: Otci\nDad: Táta </czech_detail>
+</phrase>
+<phrase>
+<english> Mother </english>
+<czech> Matka </czech>
+<czech_detail> \nplular: Matky\nMom: Máma </czech_detail>
+</phrase>
+<phrase>
+<english> Grandfather </english>
+<czech> Dědeček </czech>
+<czech_detail> \nplular: Dědečkové\nGrandpa: Děda </czech_detail>
+</phrase>
+<phrase>
+<english> Grandmother </english>
+<czech> Babička </czech>
+<czech_detail> \nplular: Babičky </czech_detail>
+</phrase>
+<phrase>
+<english> Cousin (male) </english>
+<czech> Bratranec </czech>
+<czech_detail> \nplular: Bratranci </czech_detail>
+</phrase>
+<phrase>
+<english> Cousin (female) </english>
+<czech> Sestřenice </czech>
+<czech_detail> \nplular: Sestřenice (same as singular) </czech_detail>
+</phrase>
+<phrase>
+<english> Son </english>
+<czech> Syn </czech>
+<czech_detail> \nplular: Syni </czech_detail>
+</phrase>
+<phrase>
+<english> Daughter </english>
+<czech> Dcera </czech>
+<czech_detail> \nplular: Dcery </czech_detail>
+</phrase>
+<phrase>
+<english> Grandson </english>
+<czech> Vnuk </czech>
+<czech_detail> \nplular: Vnuci </czech_detail>
+</phrase>
+<phrase>
+<english> Grand daughter </english>
+<czech> Vnučka </czech>
+<czech_detail> \nplular: Vnučky </czech_detail>
+</phrase>
+<phrase>
+<english> Nephew </english>
+<czech> Synovec </czech>
+<czech_detail> \nplular: Synovci </czech_detail>
+</phrase>
+<phrase>
+<english> Niece </english>
+<czech> Neteř </czech>
+<czech_detail> \nplular: Neteře </czech_detail>
+</phrase>
+<phrase>
+<english> Great grandfather </english>
+<czech> Pradědeček </czech>
+<czech_detail> \nplular: Pradědečci\nGreat grandpa: Praděda </czech_detail>
+</phrase>
+<phrase>
+<english> Great grandmother </english>
+<czech> Prababička </czech>
+<czech_detail> \nplular: Prababičky </czech_detail>
+</phrase>
+<phrase>
+<english> Uncle </english>
+<czech> Strýc </czech>
+<czech_detail> \nplular: Strýci </czech_detail>
+</phrase>
+<phrase>
+<english> Aunt </english>
+<czech> Teta </czech>
+<czech_detail> \nplular: Tety </czech_detail>
+</phrase>
+<phrase>
+<english> Brother-in-law </english>
+<czech> Švagr </czech>
+<czech_detail> \nplular: Švagři </czech_detail>
+</phrase>
+<phrase>
+<english> Sister-in-law </english>
+<czech> Švagrová </czech>
+<czech_detail> \nplular: Švagrové </czech_detail>
+</phrase>
+<phrase>
+<english> Fiancé </english>
+<czech> Snoubenec </czech>
+<czech_detail> \nplular: Snoubenci </czech_detail>
+</phrase>
+<phrase>
+<english> Fiancée </english>
+<czech> Snoubenka </czech>
+<czech_detail> \nplular: Snoubenky </czech_detail>
+</phrase>
+</resources>
