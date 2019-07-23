@@ -18,3 +18,10 @@ Features used: CoreData, JSON parsing
 <p></p>
 <img width="400" alt="scene" src="https://user-images.githubusercontent.com/7841727/61511888-ce813c80-a9bd-11e9-9458-c494a50fb915.png">
 </p>
+
+### Distribution  
+
+
+[Google Play](https://play.google.com/store/apps/details?id=com.appskc.czechfortravel&hl=en_US)  
+[Amazon Appstore](https://www.amazon.com/Jan-Polzer-Czech-for-Travel/dp/B00KAEHFAY/ref=sr_1_1?qid=1563921767)    
+[Apple App Store](https://apps.apple.com/us/app/czech-for-travel/id1473602492)   
