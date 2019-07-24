@@ -782,7 +782,7 @@
                 {
                     "position":  19 ,
                     "audio" : "veselevanoce",
-                    "english": "Marry Christmas!",
+                    "english": "Merry Christmas!",
                     "czech": "Veselé Vánoce",
                     "czech_detail": ""
                 }
@@ -4638,3 +4638,4 @@
             ]
         }
     ]}
+

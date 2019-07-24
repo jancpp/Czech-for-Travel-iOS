@@ -22,6 +22,9 @@ class CategoryTableViewCell: UITableViewCell {
         let tapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(imageTapped(tapGestureRecognizer:)))
         audioButton.isUserInteractionEnabled = true
         audioButton.addGestureRecognizer(tapGestureRecognizer)
+        audioButton.image = UIImage(named: "ic_volume")?.withAlignmentRectInsets(UIEdgeInsets(top: 0, left: 50, bottom: 0, right: 50))
+
+       
     }
     
     override func setSelected(_ selected: Bool, animated: Bool) {
