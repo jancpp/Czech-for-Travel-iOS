@@ -496,7 +496,7 @@
                     "position":  22 ,
                     "audio" : "hlavnimestoceskerepublikyjepraha",
                     "english": "The capital of Czech Republic is Prague.",
-                    "czech": "Hlavní město České Republiky je Praha.",
+                    "czech": "Hlavní město České republiky je Praha.",
                     "czech_detail": ""
                 }
                 ,
@@ -504,7 +504,7 @@
                     "position":  23 ,
                     "audio" : "jeceskarepublikasoucastievropskeunie",
                     "english": "Is Czech Republic part of European Union?",
-                    "czech": "Je Česká Republika součástí Evropské Unie?",
+                    "czech": "Je Česká republika součástí Evropské unie?",
                     "czech_detail": ""
                 }
                 ,
@@ -2679,7 +2679,7 @@
                     "position":  1 ,
                     "audio" : "ceskarepublika",
                     "english": "Czech Republic",
-                    "czech": "Česká Republika",
+                    "czech": "Česká republika",
                     "czech_detail": "\nshortly: Czechia"
                 }
                 ,
@@ -2775,7 +2775,7 @@
                     "position":  13 ,
                     "audio" : "spojenestaty",
                     "english": "United States",
-                    "czech": "Spojené Státy",
+                    "czech": "Spojené státy",
                     "czech_detail": ""
                 }
                 ,
