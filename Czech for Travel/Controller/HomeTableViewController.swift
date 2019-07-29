@@ -13,7 +13,7 @@ class HomeTableViewController: UITableViewController, UISplitViewControllerDeleg
     
     private var categoryList = [Category]()
     private var dataService: DataService?
-
+    
     var managedObjectContext: NSManagedObjectContext? {
         didSet {
             if let moc = managedObjectContext {
@@ -32,7 +32,25 @@ class HomeTableViewController: UITableViewController, UISplitViewControllerDeleg
         super.viewDidLoad()
         
         loadCategories()
-
+        setupViewController()
+        
+    }
+    
+    override func awakeFromNib() {
+        splitViewController?.delegate = self
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        
+        selectDefaultRowAndShowDetail()
+    }
+    
+    func splitViewController(_ splitViewController: UISplitViewController, collapseSecondary secondaryViewController: UIViewController, onto primaryViewController: UIViewController) -> Bool {
+        
+        return true
+    }
+    
+    func setupViewController() {
         view.backgroundColor = .darkGray
         self.navigationController!.navigationBar.barStyle = .blackTranslucent
         self.navigationController!.navigationBar.isTranslucent = true
@@ -43,15 +61,17 @@ class HomeTableViewController: UITableViewController, UISplitViewControllerDeleg
         tableView.dataSource = self
     }
     
-    override func awakeFromNib() {
-        splitViewController?.delegate = self
+    func selectDefaultRowAndShowDetail() {
+        
+        let indexPath = NSIndexPath(row: 0, section: 0)
+        
+        tableView.selectRow(at: indexPath as IndexPath, animated: true, scrollPosition:UITableView.ScrollPosition.none)
+        
+        if UIDevice.current.userInterfaceIdiom == .pad {
+            self.performSegue(withIdentifier: "Show Phrases", sender: indexPath)
+        }
     }
     
-    func splitViewController(_ splitViewController: UISplitViewController, collapseSecondary secondaryViewController: UIViewController, onto primaryViewController: UIViewController) -> Bool {
-
-        return true
-    }
-
     // MARK: - Table view data source
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -60,12 +80,12 @@ class HomeTableViewController: UITableViewController, UISplitViewControllerDeleg
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         guard let cell = tableView.dequeueReusableCell(withIdentifier: "homeTableCell", for: indexPath) as? HomeTableViewCell else {fatalError("Home cell didn't load")}
-
+        
         cell.configureCell(category: categoryList[indexPath.row])
         
         return cell
     }
-
+    
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         return HomeTableViewController.getHomeCellHeight()
     }
@@ -96,18 +116,18 @@ class HomeTableViewController: UITableViewController, UISplitViewControllerDeleg
     private func loadCategories() {
         if let unsortedCategories = dataService?.getCategories() {
             
-          
-                
-                for eachCategory in unsortedCategories {
-                    categoryList.append(eachCategory )
-                }
-                
-                categoryList = categoryList.sorted { (category1, category2) -> Bool in
-                    return category1.index < category2.index
-                }
+            
+            
+            for eachCategory in unsortedCategories {
+                categoryList.append(eachCategory )
             }
             
-            tableView.reloadData()
+            categoryList = categoryList.sorted { (category1, category2) -> Bool in
+                return category1.index < category2.index
+            }
+        }
+        
+        tableView.reloadData()
         
     }
 }

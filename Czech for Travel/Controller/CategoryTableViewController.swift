@@ -38,10 +38,19 @@ class CategoryViewController: UIViewController, UITableViewDelegate, UITableView
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        setupViewController()
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        
+        selectDefaultRow()
+    }
+    
+    func setupViewController() {
         phraseTableView.dataSource = self
         phraseTableView.delegate = self
         phraseTableView.backgroundColor = UIColor.darkGray
-        
         
         if selectedCategory != nil {
             // set lables when category VC first opens
@@ -56,15 +65,11 @@ class CategoryViewController: UIViewController, UITableViewDelegate, UITableView
         self.navigationController!.navigationBar.isTranslucent = true
         self.navigationController!.navigationBar.tintColor = #colorLiteral(red: 1, green: 0.99997437, blue: 0.9999912977, alpha: 1)
         self.navigationController!.navigationBar.barTintColor = UIColor.darkGray
-        
     }
     
-    override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(animated)
-        
+    func selectDefaultRow() {
         let indexPath = NSIndexPath(row: 0, section: 0)
         
-        //        phraseTableView.dataSource = self
         phraseTableView.selectRow(at: indexPath as IndexPath, animated: true, scrollPosition:.none)
     }
     

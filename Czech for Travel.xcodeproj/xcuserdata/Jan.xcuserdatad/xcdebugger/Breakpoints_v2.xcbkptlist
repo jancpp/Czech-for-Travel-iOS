@@ -6,193 +6,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Czech for Travel/Controller/HomeTableViewController.swift"
-            timestampString = "585030957.806226"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "60"
-            endingLineNumber = "60"
-            landmarkName = "HomeTableViewController"
-            landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Czech for Travel/Controller/HomeTableViewController.swift"
-            timestampString = "585030957.806329"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
-            landmarkName = "managedObjectContext"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Czech for Travel/Controller/HomeTableViewController.swift"
-            timestampString = "585030957.8064131"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "15"
-            endingLineNumber = "15"
-            landmarkName = "HomeTableViewController"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Czech_for_Travel.HomeTableViewController.(dataService in _52664224245BDB95E9DEBFD3631CE80F).getter : Swift.Optional&lt;Czech_for_Travel.DataService&gt;"
-                  moduleName = "Czech for Travel"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jan/Code/swift/Czech%20for%20Travel/Czech%20for%20Travel/Controller/HomeTableViewController.swift"
-                  timestampString = "583521305.114993"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "114">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Czech_for_Travel.HomeTableViewController.(dataService in _52664224245BDB95E9DEBFD3631CE80F).setter : Swift.Optional&lt;Czech_for_Travel.DataService&gt;"
-                  moduleName = "Czech for Travel"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jan/Code/swift/Czech%20for%20Travel/Czech%20for%20Travel/Controller/HomeTableViewController.swift"
-                  timestampString = "583521305.117615"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "128">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Czech_for_Travel.HomeTableViewController.(dataService in _52664224245BDB95E9DEBFD3631CE80F).modify : Swift.Optional&lt;Czech_for_Travel.DataService&gt;"
-                  moduleName = "Czech for Travel"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jan/Code/swift/Czech%20for%20Travel/Czech%20for%20Travel/Controller/HomeTableViewController.swift"
-                  timestampString = "583521305.119437"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "18">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Czech_for_Travel.HomeTableViewController.(dataService in _52664224245BDB95E9DEBFD3631CE80F).modify : Swift.Optional&lt;Czech_for_Travel.DataService&gt; with unmangled suffix &quot;.resume.0&quot;"
-                  moduleName = "Czech for Travel"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jan/Code/swift/Czech%20for%20Travel/Czech%20for%20Travel/Controller/HomeTableViewController.swift"
-                  timestampString = "583521305.121388"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Czech_for_Travel.HomeTableViewController.init(style: __C.UITableViewStyle) -&gt; Czech_for_Travel.HomeTableViewController"
-                  moduleName = "Czech for Travel"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jan/Code/swift/Czech%20for%20Travel/Czech%20for%20Travel/Controller/HomeTableViewController.swift"
-                  timestampString = "583521305.123324"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "194">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Czech_for_Travel.HomeTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Czech_for_Travel.HomeTableViewController"
-                  moduleName = "Czech for Travel"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jan/Code/swift/Czech%20for%20Travel/Czech%20for%20Travel/Controller/HomeTableViewController.swift"
-                  timestampString = "583521305.124964"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "325">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Czech_for_Travel.HomeTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Czech_for_Travel.HomeTableViewController&gt;"
-                  moduleName = "Czech for Travel"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jan/Code/swift/Czech%20for%20Travel/Czech%20for%20Travel/Controller/HomeTableViewController.swift"
-                  timestampString = "583521305.126685"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "229">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Czech for Travel/Controller/HomeTableViewController.swift"
-            timestampString = "585030957.806483"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "112"
-            endingLineNumber = "112"
-            landmarkName = "loadCategories()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Czech for Travel/Controller/HomeTableViewController.swift"
-            timestampString = "585030957.80655"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
-            landmarkName = "prepare(for:sender:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -203,38 +16,6 @@
             startingLineNumber = "63"
             endingLineNumber = "63"
             landmarkName = "getPhrases(selectedCategory:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Czech for Travel/Controller/HomeTableViewController.swift"
-            timestampString = "585030957.8066469"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "91"
-            endingLineNumber = "91"
-            landmarkName = "prepare(for:sender:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Czech for Travel/Controller/CategoryTableViewController.swift"
-            timestampString = "585030957.806731"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
-            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -309,7 +90,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Czech for Travel/View/CategoryTableViewCell.swift"
-            timestampString = "585532380.476696"
+            timestampString = "586056031.230033"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "42"
@@ -341,7 +122,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Czech for Travel/View/CategoryTableViewCell.swift"
-            timestampString = "585532380.4767669"
+            timestampString = "586056031.230139"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "53"
@@ -357,7 +138,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Czech for Travel/View/CategoryTableViewCell.swift"
-            timestampString = "585532380.476812"
+            timestampString = "586056031.230209"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "52"
@@ -373,7 +154,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Czech for Travel/View/CategoryTableViewCell.swift"
-            timestampString = "585532380.476853"
+            timestampString = "586056031.2302721"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "57"
